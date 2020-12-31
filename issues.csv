@@ -1,0 +1,1098 @@
+"issue_id"|"title"|"project_name"|"artefact_url"
+"100294307"|Public URL confusion, please update links|k-9|https://github.com/k9mail/k-9/issues/743
+"102087534"|Unable to add ASCII emoticons|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3970
+"102935569"|still Connection timed out with SSL connection....  |k-9|https://github.com/k9mail/k-9/issues/755
+"103088678"|issue adding gmail account|k-9|https://github.com/k9mail/k-9/issues/759
+"103209511"|Enhancement: move message to another account|k-9|https://github.com/k9mail/k-9/issues/760
+"10334725"|Can't capture screenshot of TextSecure|Signal-Android|https://github.com/signalapp/Signal-Android/issues/121
+"103466687"|Cannot share photos from Google Photos|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3989
+"104496847"|SMS fallback not triggered if recipient offline|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4009
+"105027695"|Can 'open' not downloaded media|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4024
+"105087940"|"Key's QR code never matches when opened through ""You may wish to verify this contact"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4028
+"105170615"|Crash in EmailProvider with unified inbox|k-9|https://github.com/k9mail/k-9/issues/783
+"105602265"|Icon displayed in portrait mode disapears in landscape mode|k-9|https://github.com/k9mail/k-9/issues/788
+"106578683"|html signature support|k-9|https://github.com/k9mail/k-9/issues/794
+"106742294"|Pictures taken by Camera not always displayed for sending|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4076
+"106869141"|highlight text then replace it by emoticon makes the app crash|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4078
+"107161719"|Notification remains after email read/deleted using another device|k-9|https://github.com/k9mail/k-9/issues/803
+"107406152"|When you leave a long email and come back again it should persist and return the position you were scrolled down to.|k-9|https://github.com/k9mail/k-9/issues/806
+"107550185"|"Repeated Error: ""Negative SMTP Reply: 501 5.1.3 Bad re..."", ""Failed to send some mess..."""|k-9|https://github.com/k9mail/k-9/issues/808
+"107665026"|Report a possible race issue|k-9|https://github.com/k9mail/k-9/issues/809
+"108169912"|crash on opening message|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4114
+"108761302"|crash opening coversation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4142
+"109693961"|Link SMTP Error messages to outgoing mail folder|k-9|https://github.com/k9mail/k-9/issues/830
+"109705844"|Linkify geo-schemed uris|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4206
+"110089251"|disappearing notifications|k-9|https://github.com/k9mail/k-9/issues/834
+"110319499"|Problem with STARTTLS under Android Marshmallow|k-9|https://github.com/k9mail/k-9/issues/836
+"110431180"|Feature: export single conversation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4224
+"110483642"|No warning when getting a call from contact with new key|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4226
+"113162406"|Feature Request: Support Mozilla autoconfig|k-9|https://github.com/k9mail/k-9/issues/865
+"114072436"|K-9 doesn't working with my Exchange 2013|k-9|https://github.com/k9mail/k-9/issues/873
+"114962825"|Grouping notifications from different conversations is a bad idea|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4371
+"115244947"|Can't properly translate some strings in Signal on Transifex|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4388
+"115771280"|material-dialogs not found on maven|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4458
+"115870428"|multipart issue with empty body|k-9|https://github.com/k9mail/k-9/issues/889
+"116346616"|Response 401 Login failed on encrypted call|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4489
+"116368574"|Multiple notifications crashes app |Signal-Android|https://github.com/signalapp/Signal-Android/issues/4491
+"116507303"|Feature: Scroll bar and message stars|k-9|https://github.com/k9mail/k-9/issues/894
+"116813267"|group conversations still reappear although group was left|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4520
+"116922392"|testRelease, testDebug, testDev tasks have 2 failed tests each|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4534
+"116960231"|GIF doesn't play when sent/share from gallery|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4539
+"117017973"|New contact selection & dark theme: Gray Signal icon has white keyhole|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4546
+"117313895"|backslash in username does not work for IMAP login|k-9|https://github.com/k9mail/k-9/issues/899
+"118066279"|Send Multiple Images at Once|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4629
+"118120400"|Can't link devices / scan QR|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4637
+"118217853"|Play position of a deleted voice message is carried over to a newly recorded voice message|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4655
+"118254996"|Shared media draft disappears after reboot, orphaned PersistentBlobProvider file|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4665
+"118544637"|"""Delete selected message"" dialog button strings still ""No""/""Yes"" after update"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4704
+"118917548"|Tilting the phone during quick capture freezes the picture|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4716
+"119284589"|S/MIME crashes app|k-9|https://github.com/k9mail/k-9/issues/916
+"119325514"|Opening Signal the very moment a message is delivered screws with the notification|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4756
+"119348827"|"""New Message!"" notification string has title caps, unnecessary exclamation point"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4758
+"119496897"|Allow setting status (& messages) / availability.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4766
+"119787900"|Envelope-From setting|k-9|https://github.com/k9mail/k-9/issues/921
+"119957529"|Undesirable messages when synchronizing|k-9|https://github.com/k9mail/k-9/issues/927
+"120312171"|Can't find folders begining with 00=[|k-9|https://github.com/k9mail/k-9/issues/933
+"120555377"|Sudden switch to one-way unencrypted conversation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4812
+"121789375"|Signal crashes on 'Add to contacts' (Nexus 7)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4865
+"122044606"|PhoneNumberFormatterTest  build failed|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4881
+"123105788"|Move functionality from RecipientLoader to its own class|k-9|https://github.com/k9mail/k-9/issues/965
+"123262445"|Make UidReverseComparator transitive|k-9|https://github.com/k9mail/k-9/issues/969
+"123994629"|Group Update Failures are Unrecoverable|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4974
+"123998446"|Signal (iOS) contact does not appear in contact list|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4976
+"124085444"|Add support for SOCKS proxy|k-9|https://github.com/k9mail/k-9/issues/980
+"124101231"|make an option for disable chat history  |Signal-Android|https://github.com/signalapp/Signal-Android/issues/4981
+"124103761"|Mails shown twice|k-9|https://github.com/k9mail/k-9/issues/981
+"124278876"|Signal will not use permissions with Privacy Guard enabled, nor prompt for confirmation code|Signal-Android|https://github.com/signalapp/Signal-Android/issues/4995
+"124311738"|Default IMAP server for gmail is mail.gmail.com|k-9|https://github.com/k9mail/k-9/issues/985
+"124945799"|SMS from new contact (non-Signal) answered with Signal message|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5027
+"125084837"|Replying to an encrypted Mail quotes the encrypted Mail still encrypted|k-9|https://github.com/k9mail/k-9/issues/994
+"125169819"|Button for new message in conversation list is too dark|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5034
+"127761748"|Deleting on Server when not supposed to|k-9|https://github.com/k9mail/k-9/issues/1026
+"127948537"|Supress repeating alerts|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5101
+"128169661"|Unable to send SMS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5105
+"128170194"|No SMS when no internet connection|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5106
+"128496154"|"Default IMAP sent folder should be the ""Sent"" folder irrespective of the configured language"|k-9|https://github.com/k9mail/k-9/issues/1036
+"128630180"|Can't send SMS: org.thoughtcrime.securesms.transport.UndeliverableMessageException: Trying to send a secure SMS?|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5127
+"129438820"|Drafts folder retains messages after send|k-9|https://github.com/k9mail/k-9/issues/1047
+"131163851"|Optimize power consumption in situations with intermittent/bad connectivity|k-9|https://github.com/k9mail/k-9/issues/1066
+"131880198"|Incompatibility with Android System WebView 49|k-9|https://github.com/k9mail/k-9/issues/1072
+"132172149"|Cannot terminate application|k-9|https://github.com/k9mail/k-9/issues/1078
+"132307181"|Phone Calls Fail When Calling via VPN|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5198
+"132831043"|exported settings from v5.107 (alpha) cannot be imported into v5.007 ff|k-9|https://github.com/k9mail/k-9/issues/1085
+"134893400"|"Text does not wrap when ""Enter is send"" is enabled"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5264
+"135866152"|"Feature Request: Add an ""Exit""/close/kill app', function.  For battery current drain, et cetera."|k-9|https://github.com/k9mail/k-9/issues/1123
+"135872960"|Mails not synching|k-9|https://github.com/k9mail/k-9/issues/1124
+"137009701"|Add more logging to mail sync code|k-9|https://github.com/k9mail/k-9/issues/1131
+"137196774"|Camera sensor usage|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5301
+"138685502"|Support binary Content-Type-Encoding|k-9|https://github.com/k9mail/k-9/issues/1146
+"139373282"|Not able to view encrypted/signed messages as is when CryptoProvider is uninstalled|k-9|https://github.com/k9mail/k-9/issues/1160
+"139382244"|can't compose Mails on fairphone2|k-9|https://github.com/k9mail/k-9/issues/1161
+"140676889"|Update CONTRIBUTING.md (don't bump issues, etc.)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5338
+"141002151"|"Missing icon for ""Lock with passphrase"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5342
+"14109132"|TextSecure stops receiving messages after being closed from 'recent apps' list|Signal-Android|https://github.com/signalapp/Signal-Android/issues/168
+"14237610"|Failure to Identify Contacts|Signal-Android|https://github.com/signalapp/Signal-Android/issues/170
+"143648883"|Text cursor invisible in conversation list search (light theme only)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5382
+"143842525"|wrong content-type when sharing image as attachment from whatsapp|k-9|https://github.com/k9mail/k-9/issues/1221
+"143949490"|Adding pulldown-to-refresh for all folders|k-9|https://github.com/k9mail/k-9/issues/1222
+"144778529"|Polls 1 of 3 gmails evry 10 instead of set 60 mins...|k-9|https://github.com/k9mail/k-9/issues/1235
+"146108559"|Add support for messages we can't properly parse|k-9|https://github.com/k9mail/k-9/issues/1261
+"147348099"|Crash viewing an application/pgp message|k-9|https://github.com/k9mail/k-9/issues/1271
+"148289944"|ImapFolder.executeSimpleCommand is not synchronized and doesn't check for a connection|k-9|https://github.com/k9mail/k-9/issues/1283
+"148321333"|k9mail not synchronize the  sub-folder in my inbox|k-9|https://github.com/k9mail/k-9/issues/1284
+"148744782"|k-9 drains battery?|k-9|https://github.com/k9mail/k-9/issues/1290
+"148985045"|Attachment file size miscalculated and file corrupted|k-9|https://github.com/k9mail/k-9/issues/1296
+"150094920"|Feature request: make a difference between unseen and unread emails.|k-9|https://github.com/k9mail/k-9/issues/1318
+"150300660"|Sending a sms to a special number like 9990033612345678 failed|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5456
+"150609815"|Subject appear twice|k-9|https://github.com/k9mail/k-9/issues/1326
+"151977459"|unable to open first attachment? (ics)|k-9|https://github.com/k9mail/k-9/issues/1344
+"153743222"|Support Lemonade extensions for attachment forwarding without download on IMAP|k-9|https://github.com/k9mail/k-9/issues/1361
+"154552949"|Add some sort of ability for signal to track which peer's keys are verified|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5492
+"15469742"|Add ability to save unknown number to new or existing contact in the address book|Signal-Android|https://github.com/signalapp/Signal-Android/issues/196
+"155726466"|(Long?) links doesn't open when tapping in new-unread message|k-9|https://github.com/k9mail/k-9/issues/1393
+"156156903"|Toggle view between plain Text and HTML|k-9|https://github.com/k9mail/k-9/issues/1397
+"157478677"|Subject in expanded notifications doesn't take account of dark themes|k-9|https://github.com/k9mail/k-9/issues/1418
+"157517930"|Sync fails on Marshmallow|k-9|https://github.com/k9mail/k-9/issues/1419
+"158009216"|Android app stopped working 3 days after porting my phone number, desktop still working fine|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5518
+"15803516"|Feature Request: Notification options per contact|Signal-Android|https://github.com/signalapp/Signal-Android/issues/213
+"158530859"|Show counters of new (unread) messages and total (!) messages in the folder and mailbox|k-9|https://github.com/k9mail/k-9/issues/1427
+"158551561"|Have to delete emails twice (IMAP)|k-9|https://github.com/k9mail/k-9/issues/1437
+"158554270"|Race condition situation at the end of downloading an image in TextSecure of Signal|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5522
+"158567984"|Feature request: switch tp material theme|k-9|https://github.com/k9mail/k-9/issues/1440
+"159331137"|Option to auto save locally decrypted gpg email (make all encrypted mails searcheable)|k-9|https://github.com/k9mail/k-9/issues/1446
+"159332697"|Option to add keywords or tags to encrypted email to make them searcheable locally|k-9|https://github.com/k9mail/k-9/issues/1448
+"159552888"|Previously read messages are re-syncing as unread after deleting another email.|k-9|https://github.com/k9mail/k-9/issues/1454
+"159826537"|Duplicate folders|k-9|https://github.com/k9mail/k-9/issues/1457
+"160377547"|renaming (rebranding) the entire package|k-9|https://github.com/k9mail/k-9/issues/1462
+"16176668"|Import failed|Signal-Android|https://github.com/signalapp/Signal-Android/issues/229
+"162311760"|Cannot install K-9 Mail v5.109 (alpha) apk|k-9|https://github.com/k9mail/k-9/issues/1474
+"162512884"|http-equiv refresh still exploitable in stable|k-9|https://github.com/k9mail/k-9/issues/1478
+"16291931"|Unable to enter thread view for any threads after entering Batch Selection Mode and then pressing the back button|Signal-Android|https://github.com/signalapp/Signal-Android/issues/233
+"16293344"|Cannot mark a message as read using the notification action if it is the first message from a new contact|Signal-Android|https://github.com/signalapp/Signal-Android/issues/235
+"16411661"|Cant receive MMS with wifi turned on|Signal-Android|https://github.com/signalapp/Signal-Android/issues/242
+"165044671"|Webdav (Exchange) sending email is broken since v5.109 (alpha)|k-9|https://github.com/k9mail/k-9/issues/1500
+"165362626"|Panoramas suffer considerably from image compression|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5574
+"16551358"| Feature: send schedule|Signal-Android|https://github.com/signalapp/Signal-Android/issues/253
+"165997105"|Add interface to allow Spam filtering by third-party apps|k-9|https://github.com/k9mail/k-9/issues/1508
+"166069069"|'Mark all as read' action cannot be configured as the one that requires confirmation|k-9|https://github.com/k9mail/k-9/issues/1509
+"168521847"|Sync stops after WiFi turned off|k-9|https://github.com/k9mail/k-9/issues/1532
+"168528060"|unable to paste text in email body|k-9|https://github.com/k9mail/k-9/issues/1533
+"169553271"|Permanent retreive of lails on imap|k-9|https://github.com/k9mail/k-9/issues/1546
+"169562337"|Wrong SMTP server when sending mail|k-9|https://github.com/k9mail/k-9/issues/1547
+"170032787"|Play Store: Your version of Signal is outdated|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5610
+"170664519"|non uri addressable attachments|k-9|https://github.com/k9mail/k-9/issues/1560
+"171300451"|Attachment deleted when opening draft from IMAP|k-9|https://github.com/k9mail/k-9/issues/1566
+"172902784"|Message text obscured when successful decryption|k-9|https://github.com/k9mail/k-9/issues/1575
+"173581982"|Android Nougat: Email Context Menu at Wrong Position|k-9|https://github.com/k9mail/k-9/issues/1581
+"17403130"|Recently found out that Verizon adds deleted msgs to Facebook|Signal-Android|https://github.com/signalapp/Signal-Android/issues/286
+"175118975"|Feature Request: Mail Folder Widget|k-9|https://github.com/k9mail/k-9/issues/1600
+"176290457"|new Comcast accounts use POP instead of IMAP|k-9|https://github.com/k9mail/k-9/issues/1611
+"177024566"|Sorting favorite smilies by absolute occurrence|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5685
+"177664549"|STARTTLS does not work after update to Android 7.0 (K9 tries to use SSLv3)|k-9|https://github.com/k9mail/k-9/issues/1618
+"177978371"|Android 6.01: k9 5.111 does not show emails that arrived during doze|k-9|https://github.com/k9mail/k-9/issues/1623
+"178931615"|No period insert after double space|k-9|https://github.com/k9mail/k-9/issues/1630
+"179049469"|Quoting only selected text on reply/forward|k-9|https://github.com/k9mail/k-9/issues/1633
+"179071775"|Option to display contact in terms of name and/or number|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5717
+"18007458"|message notifications in the status bar should not show the sender..|Signal-Android|https://github.com/signalapp/Signal-Android/issues/308
+"180303112"|intermittent problems on Wi-Fi|k-9|https://github.com/k9mail/k-9/issues/1650
+"180513477"|Server search slow/unresponsive|k-9|https://github.com/k9mail/k-9/issues/1656
+"181196118"|Messages do not show up on the phone unless marked read in the desktop app|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5745
+"181463876"|Theme change on K9 5.112 not possible|k-9|https://github.com/k9mail/k-9/issues/1676
+"181674581"|k-9 v5.112 from f-droid -> no more dark theme|k-9|https://github.com/k9mail/k-9/issues/1684
+"181827807"|Crash when changing the conversation settings of an SMS conversation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5760
+"181835959"|"K9-Mail invokes too many connection when it is set to display ""All Folders"""|k-9|https://github.com/k9mail/k-9/issues/1694
+"18195676"|"Some messages not displaying, stuck on ""Decrypting, please wait"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/311
+"182101510"|Updating database forever|k-9|https://github.com/k9mail/k-9/issues/1697
+"182195603"|NPE in k9 and empty list when querying messages from 3rd party application (Gadgetbridge)|k-9|https://github.com/k9mail/k-9/issues/1699
+"182322384"|Unable to send emails|k-9|https://github.com/k9mail/k-9/issues/1706
+"182815531"|Signal sends very underspecified SMS during registration|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5778
+"183629471"|Use 'Sender' field to provide on behalf of information|k-9|https://github.com/k9mail/k-9/issues/1727
+"183762547"|Dual signed+encrypted messages not verifiable signature|k-9|https://github.com/k9mail/k-9/issues/1731
+"184878509"|K9 Mail won't delete messages on the server|k-9|https://github.com/k9mail/k-9/issues/1748
+"184961817"|Tor Hidden Service support|k-9|https://github.com/k9mail/k-9/issues/1751
+"185101292"|Hotmail IMAP XOAUTH2|k-9|https://github.com/k9mail/k-9/issues/1753
+"185264184"|Keyboard should hide after Giphy search|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5807
+"185395490"|Pictures disappear prematurely|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5810
+"185876255"|Notification not cleared when deleting message(s) from notification|k-9|https://github.com/k9mail/k-9/issues/1762
+"186076245"|Self-sent messages are duplicated|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5820
+"18716660"|Feature request: Sending dummy short messages|Signal-Android|https://github.com/signalapp/Signal-Android/issues/328
+"18732063"|Attached jpeg files aren't correctly displayed (orientation)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/331
+"187518403"|More securing sharing of files in Android via Content Provider|k-9|https://github.com/k9mail/k-9/issues/1777
+"188209224"|Contact autocomplete doesn't work when forwarding email with attachments|k-9|https://github.com/k9mail/k-9/issues/1786
+"188476788"|download pic not include attachment|k-9|https://github.com/k9mail/k-9/issues/1787
+"188512809"|specific smtp of alias|k-9|https://github.com/k9mail/k-9/issues/1788
+"188806469"|Context menu of emails is too small|k-9|https://github.com/k9mail/k-9/issues/1791
+"188969497"|"Change ""Spam"" to ""Not spam"" in the Spam folder."|k-9|https://github.com/k9mail/k-9/issues/1793
+"189044259"|Body of messages not fetched|k-9|https://github.com/k9mail/k-9/issues/1794
+"189698823"|Signal automatically adds country to Service numbers |Signal-Android|https://github.com/signalapp/Signal-Android/issues/5866
+"190300902"|Feature request: widget to disable sync|k-9|https://github.com/k9mail/k-9/issues/1802
+"190379680"|Quick Reply and Non-Standard DPI...|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5870
+"190520062"|App screen does not fill the phone display from top to bottom |k-9|https://github.com/k9mail/k-9/issues/1803
+"191182287"|Signal crashes on startup after entering passphrase|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5884
+"19154103"|option to send text with multiple recipients as multiple sms|Signal-Android|https://github.com/signalapp/Signal-Android/issues/341
+"191672015"|Onboarding Re-work|k-9|https://github.com/k9mail/k-9/issues/1818
+"192215233"|Incorrect Icon For FAB?|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5900
+"193276101"|Constantly crashing when trying to answer unknown group recovery request|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5919
+"193554445"|double-tap trashcan to delete|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5925
+"194061084"|Data Loss: Compose from Other App|k-9|https://github.com/k9mail/k-9/issues/1838
+"194149518"|"Mark deleted mails as ""read"""|k-9|https://github.com/k9mail/k-9/issues/1840
+"196219236"|"3.25.0 introduced probably unintended UI changes "|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5965
+"196752930"|Concept: Material Redesign|k-9|https://github.com/k9mail/k-9/issues/1859
+"196990571"|AvatarDownloadJob NPE when trying to open Signal|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5980
+"197002714"|Seeing Poor Performance When Connected to WIFI|k-9|https://github.com/k9mail/k-9/issues/1862
+"197076991"|Attachment not encrypted with PGP|k-9|https://github.com/k9mail/k-9/issues/1863
+"197166589"|Unread messages on the message list not displayed in bold (when using non-default system font)|k-9|https://github.com/k9mail/k-9/issues/1865
+"197455470"|Provide way to create full encrypted backup|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5989
+"197620561"|Cannot connect to outgoing SMTP server for Gmail|k-9|https://github.com/k9mail/k-9/issues/1873
+"197697393"|F-droid release?|Signal-Android|https://github.com/signalapp/Signal-Android/issues/5995
+"197991995"|"Display recipient address, not name, in compose fields if ""Show correspondent names"" is unchecked"|k-9|https://github.com/k9mail/k-9/issues/1884
+"198083690"|Opening new mail from lock screen notification goes to folder view|k-9|https://github.com/k9mail/k-9/issues/1885
+"198133532"|Required to enter password to decrypt email|k-9|https://github.com/k9mail/k-9/issues/1888
+"198272223"|Special Charakters in Subject|k-9|https://github.com/k9mail/k-9/issues/1905
+"198357907"|ImapResponseParser.parseLiteral timeout error|k-9|https://github.com/k9mail/k-9/issues/1919
+"198363581"|"No way to supress ""mark all as read"" confirmation dialog."|k-9|https://github.com/k9mail/k-9/issues/1923
+"198385991"|APG not being detected or used by k9mail after upgrade|k-9|https://github.com/k9mail/k-9/issues/1929
+"198554532"|App crashes while scrolling through messages|k-9|https://github.com/k9mail/k-9/issues/1941
+"198557480"|No option to disable mail recipients' photo or initial|k-9|https://github.com/k9mail/k-9/issues/1944
+"198614905"|New messages not downloaded|k-9|https://github.com/k9mail/k-9/issues/1952
+"198773335"|COMPOSE UI with BCC Missing |k-9|https://github.com/k9mail/k-9/issues/1964
+"198962452"|Provide a message when a message list is empty|k-9|https://github.com/k9mail/k-9/issues/1980
+"199105724"|Cannot cut/copy recipeients from Reply window|k-9|https://github.com/k9mail/k-9/issues/1991
+"199324538"|Better error handling when authentication fails|k-9|https://github.com/k9mail/k-9/issues/2000
+"199498894"|Server search only shows message headers and doesn't download them|k-9|https://github.com/k9mail/k-9/issues/2023
+"199915937"|Recent photos thumbnails not updated after opening conversation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6028
+"200290171"|NPE in HtmlToSpannedConverter (following unsupported transfer encoding) breaks sync|k-9|https://github.com/k9mail/k-9/issues/2044
+"200434984"|Failure to receive emails|k-9|https://github.com/k9mail/k-9/issues/2045
+"200646566"|Sent IMAP Not Saved|k-9|https://github.com/k9mail/k-9/issues/2050
+"201032443"|Newly made PGP keys are expired (K-9 & Openkeychain)|k-9|https://github.com/k9mail/k-9/issues/2066
+"201404188"|Frequent crash on viewing new message from conversation thread|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6068
+"202297854"|Sending email to self sends emails to wrong account or nowhere|k-9|https://github.com/k9mail/k-9/issues/2101
+"202338454"|Handle runtime permissions in K-9|k-9|https://github.com/k9mail/k-9/issues/2110
+"202356523"|Support unsigned encrypted emails|k-9|https://github.com/k9mail/k-9/issues/2112
+"202374192"|Unread messages count on app dock icon|k-9|https://github.com/k9mail/k-9/issues/2114
+"202867420"|Search slowed since ?, even slower when mobile|k-9|https://github.com/k9mail/k-9/issues/2129
+"203372395"|Add support for blocking web fonts|focus-android|https://github.com/mozilla-mobile/focus-android/issues/16
+"203372525"|Telemetry|focus-android|https://github.com/mozilla-mobile/focus-android/issues/18
+"203372790"|Add 'Your Rights' screen|focus-android|https://github.com/mozilla-mobile/focus-android/issues/23
+"203500150"|Camera buttons misaligned|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6107
+"203983895"|"Number of mails to sync via ""Load up to 25 more"""|k-9|https://github.com/k9mail/k-9/issues/2154
+"203985514"|Default sender identity based on current folder|k-9|https://github.com/k9mail/k-9/issues/2155
+"204095592"|Cannot import client p12 certificate when storage location is external storage|k-9|https://github.com/k9mail/k-9/issues/2156
+"204357105"|"Wrong date header ""Today"", preceeding ""Yesterday"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6131
+"204471189"|Exchange (WebDAV)|k-9|https://github.com/k9mail/k-9/issues/2163
+"204473808"|"Crash after tapping ""Enable Signal for SMS"" bar"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6135
+"205237429"|Video call should default to speakerphone (with no option of speakerphone displayed)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6153
+"205390762"|Plus addressing, Subdomain addressing and identities|k-9|https://github.com/k9mail/k-9/issues/2185
+"205417396"|Support saving to removable storage|k-9|https://github.com/k9mail/k-9/issues/2187
+"205458049"|With many accounts the default account doesn't check mail|k-9|https://github.com/k9mail/k-9/issues/2191
+"205664583"|Disable proximity sensor for video calls|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6179
+"206031063"|Add ability to change default Search engine|focus-android|https://github.com/mozilla-mobile/focus-android/issues/40
+"206034121"|Add basic support for Android tablets|focus-android|https://github.com/mozilla-mobile/focus-android/issues/44
+"206096690"|Add unit tests for FixedLengthInputStream|k-9|https://github.com/k9mail/k-9/issues/2207
+"206193253"|Make all keys in global_preferences.xml lowercase|k-9|https://github.com/k9mail/k-9/issues/2213
+"206466885"|Decryption of gnupg v1 encrypted emails fails|k-9|https://github.com/k9mail/k-9/issues/2216
+"206583691"|Switch to SDK 25|focus-android|https://github.com/mozilla-mobile/focus-android/issues/53
+"207742051"|Consider enabling MultiDex and pre dexing of libraries|focus-android|https://github.com/mozilla-mobile/focus-android/issues/67
+"208251280"|"Chromium app opened twice --> ""A MESSAGE FROM ... WAS NOT RECEIVED"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6240
+"208398234"|A new place you can post this to|k-9|https://github.com/k9mail/k-9/issues/2248
+"208663048"|Phone re-start when answering Signal video|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6247
+"209162888"|ClassCastException on IMAP sync #811|k-9|https://github.com/k9mail/k-9/issues/2269
+"209223697"|Process google blocking list|focus-android|https://github.com/mozilla-mobile/focus-android/issues/94
+"209883201"|Switch to native app if available?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/119
+"209985297"|"All messages show ""No message text"" after upgrade to 5.204"|k-9|https://github.com/k9mail/k-9/issues/2279
+"210401893"|Signal crashes during loading after update 3.29.6 |Signal-Android|https://github.com/signalapp/Signal-Android/issues/6309
+"210633476"|Consider switching to regex for content blocking|focus-android|https://github.com/mozilla-mobile/focus-android/issues/123
+"211220372"|Make resource-id of menu items distinct for UI Test|focus-android|https://github.com/mozilla-mobile/focus-android/issues/138
+"211467228"|Remove overflow menu from settings|focus-android|https://github.com/mozilla-mobile/focus-android/issues/146
+"211857576"|time out on folder sync, due to corrupt content-type header|k-9|https://github.com/k9mail/k-9/issues/2336
+"211879983"|Support SMTP CHUNKING extension|k-9|https://github.com/k9mail/k-9/issues/2340
+"212377506"|Transition from first-run screen to HomeFragment/BrowserFragment|focus-android|https://github.com/mozilla-mobile/focus-android/issues/170
+"212461634"|pgp/mime decrypt BUT to not show up anything|k-9|https://github.com/k9mail/k-9/issues/2356
+"212776239"|Map to (outdated?) java locale codes during string import|focus-android|https://github.com/mozilla-mobile/focus-android/issues/186
+"212837021"|Custom snack bar after a page is erased|focus-android|https://github.com/mozilla-mobile/focus-android/issues/193
+"212975694"|Campaign tracking|focus-android|https://github.com/mozilla-mobile/focus-android/issues/198
+"213109957"|Edit and copy email to clipboard from address field|k-9|https://github.com/k9mail/k-9/issues/2364
+"213191923"|Avoiding editText getting focus automatically when AccountSetupIncoming and AccountSetupOutgoing activities start|k-9|https://github.com/k9mail/k-9/issues/2367
+"213601404"|First message as re-registration not marked as delivered|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6370
+"214424043"|Use Mozilla's location service for search country code|focus-android|https://github.com/mozilla-mobile/focus-android/issues/245
+"214528413"|CM 13 Signal Connectivity Error|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6397
+"214718000"|Automated screenshots: No wordmark in about page |focus-android|https://github.com/mozilla-mobile/focus-android/issues/265
+"215079799"|Transform SUMO help page to make it mobile friendly|focus-android|https://github.com/mozilla-mobile/focus-android/issues/283
+"215530408"|Forward and Backward arrows problem in RTL on the Tablet|focus-android|https://github.com/mozilla-mobile/focus-android/issues/298
+"215905813"|PGP block sent as HTML is not recognised by K-9 as encrypted data|k-9|https://github.com/k9mail/k-9/issues/2422
+"216110928"|"Crash: Didn't find class ""org.thoughtcrime.redphone.VoiceCallShare"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6428
+"216121758"|Forward button doesn't work|focus-android|https://github.com/mozilla-mobile/focus-android/issues/319
+"216178067"|Handle long press on email or phone number|focus-android|https://github.com/mozilla-mobile/focus-android/issues/330
+"216195514"|market:// url is unrecognized when typed in url textfield, and erasing history disables web access|focus-android|https://github.com/mozilla-mobile/focus-android/issues/333
+"21636617"|Message alert repetition feature|Signal-Android|https://github.com/signalapp/Signal-Android/issues/393
+"216391207"|Focus should be able to open all of browsers in private browsing mode|focus-android|https://github.com/mozilla-mobile/focus-android/issues/339
+"216620405"|include date of release in changelog|k-9|https://github.com/k9mail/k-9/issues/2437
+"217516387"|Auto Synchronization does not work after phone change with export/import of settings|k-9|https://github.com/k9mail/k-9/issues/2457
+"217881085"|AMP pages do not open|focus-android|https://github.com/mozilla-mobile/focus-android/issues/356
+"218050939"|Configure android:fullBackupContent|focus-android|https://github.com/mozilla-mobile/focus-android/issues/368
+"218106618"|Back button needs to be pressed twice to leave app|focus-android|https://github.com/mozilla-mobile/focus-android/issues/371
+"218325894"|K9 does not reject expired SSL certs / warnings could be more user-friendly.|k-9|https://github.com/k9mail/k-9/issues/2467
+"218591048"|Signal 4.2.0 crashes when opening a group conversation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6464
+"218707574"|Lost Signal Messages after Update|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6472
+"218744814"|Shortcut to Incognito mode or permanent Incognito mode|focus-android|https://github.com/mozilla-mobile/focus-android/issues/395
+"219285980"|"Going to help page shows ""Secure connection failed"" error"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/403
+"219973085"|Regression: outgoing calls have sent checkmark|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6502
+"220688117"|UpdateApkJob burns CPU time while offline|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6514
+"220743539"|"Bug: blocked contact sees message as ""delivered"" (two check marks)"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6515
+"220971928"|Mark All As Read in Notification|k-9|https://github.com/k9mail/k-9/issues/2491
+"221506045"|Show information about SSL certificate|focus-android|https://github.com/mozilla-mobile/focus-android/issues/454
+"222102098"|Two issues with the latest translation changes|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6535
+"223408951"|"Introduce setting for enabling/disabling ""secure mode"" (screenshots)"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/501
+"223576607"|Cryptography settings are ambigiuous with multiple private keys|k-9|https://github.com/k9mail/k-9/issues/2510
+"223895877"|Failed to record audio message|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6571
+"224697008"|Jumbomoji doesn't work for all emojis|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6587
+"224976678"|Crash when starting service|focus-android|https://github.com/mozilla-mobile/focus-android/issues/535
+"225545651"|Can't connect to mail.vivaldi.net, never had any problem before I update Android to 7.1.2|k-9|https://github.com/k9mail/k-9/issues/2523
+"22563297"|Entire Message History Disappeared|Signal-Android|https://github.com/signalapp/Signal-Android/issues/423
+"226123000"|email removed from server when downloaded on phone|k-9|https://github.com/k9mail/k-9/issues/2525
+"226130523"|"Drafts Not Sync'ing Correctly: ""IOException: readStringUnti"""|k-9|https://github.com/k9mail/k-9/issues/2526
+"226683993"|Import SafeIntent (android.os.BadParcelableException: ClassNotFoundException when unmarshalling: com.facebook.*)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/569
+"227472107"|Enable and enforce pmd|focus-android|https://github.com/mozilla-mobile/focus-android/issues/573
+"227816378"|[Feature] Responsive theme according to daylight and wallpapers|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6626
+"228044781"|omit /Exchange in mailboxpath|k-9|https://github.com/k9mail/k-9/issues/2532
+"228106169"|Support fullscreen videos|focus-android|https://github.com/mozilla-mobile/focus-android/issues/586
+"229825697"|"3rd party keyboard not working in Firefox Klar"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/612
+"229998344"|Reproducible crash when entering conversation.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6661
+"230597371"|F-Droid|focus-android|https://github.com/mozilla-mobile/focus-android/issues/617
+"230978633"|[Gecko] Links are not working from Startpage.com|focus-android|https://github.com/mozilla-mobile/focus-android/issues/625
+"231199744"|Has anyone thought about password managers compatibility?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/645
+"231395956"|Sharing when page fails to load shared data: uri|focus-android|https://github.com/mozilla-mobile/focus-android/issues/649
+"231396661"|Signal 4.6.1: Can't retrieve MMS messages T-Mobile|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6682
+"231486581"|Investigate Infer Eradicate mode|focus-android|https://github.com/mozilla-mobile/focus-android/issues/655
+"231619494"|Wired.com crashes focus|focus-android|https://github.com/mozilla-mobile/focus-android/issues/660
+"232099969"|Going to system default sets the locale to English in non-English Locale.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/677
+"232443905"|Design icon to show blocking is OFF|focus-android|https://github.com/mozilla-mobile/focus-android/issues/682
+"232532573"|"Lao: ""error_unsupportedprotocol_message"" contains invalid XHTML (Opening and ending tag mismatch)"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/685
+"233572754"|A lot of crashes with android 7.0|k-9|https://github.com/k9mail/k-9/issues/2569
+"233798578"|Feature: display artist & title if present in common audio tag format(s)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6707
+"233870453"|No windowed mode on Galaxy Note (10.1, 2014)|k-9|https://github.com/k9mail/k-9/issues/2570
+"233900100"|Call quality degrades into choppy playback when both people talk at the same time|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6708
+"233925938"|[SUMO] Default browser article |focus-android|https://github.com/mozilla-mobile/focus-android/issues/719
+"234191941"|Extract locale switcher into standalone library|focus-android|https://github.com/mozilla-mobile/focus-android/issues/724
+"234695102"|RTL problem, About page|focus-android|https://github.com/mozilla-mobile/focus-android/issues/740
+"235203193"|Disable obfuscation of builds|focus-android|https://github.com/mozilla-mobile/focus-android/issues/755
+"235510504"|Photon loading bar: RTL animation needs to be reversed|focus-android|https://github.com/mozilla-mobile/focus-android/issues/769
+"235861609"|Focus app unexpectedly closes if history is cleared twice from the notification tray|focus-android|https://github.com/mozilla-mobile/focus-android/issues/774
+"235882810"|Message view unexpected scrolls far down the list|k-9|https://github.com/k9mail/k-9/issues/2585
+"235974874"|Clearing browsing history from Settings or system app switcher unexpectedly closes the app (looks like crash)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/779
+"236199582"|Yelp redirect to app store loop|focus-android|https://github.com/mozilla-mobile/focus-android/issues/783
+"236309048"|Focus is missing URL bar when loading first page|focus-android|https://github.com/mozilla-mobile/focus-android/issues/785
+"236420858"|RTL Language Bullets Display Error|focus-android|https://github.com/mozilla-mobile/focus-android/issues/788
+"236662321"|Change default outgoing security to STARTTLS|k-9|https://github.com/k9mail/k-9/issues/2592
+"237012861"|"Focus ""erase browsing"" notification remains when opening links in focus"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/790
+"237276928"|AJAX not working on openvegemap.netlib.re|focus-android|https://github.com/mozilla-mobile/focus-android/issues/793
+"237302714"|How to build this without blobs?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/795
+"237596533"|Allow opening local HTML files (content scheme)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/803
+"237663875"|SMTP injection via email address|k-9|https://github.com/k9mail/k-9/issues/2598
+"238671304"|Feature request: programme a message to be sent in the future|k-9|https://github.com/k9mail/k-9/issues/2603
+"239560544"|Put Focus/Klar APK on mozilla.org|focus-android|https://github.com/mozilla-mobile/focus-android/issues/830
+"239601281"|Let users know that they can change the default search engine|focus-android|https://github.com/mozilla-mobile/focus-android/issues/831
+"239679387"|Page zoom problem on some pages. Horizontal scrolling|focus-android|https://github.com/mozilla-mobile/focus-android/issues/837
+"240439730"|Error downloading MMS message, tap to retry|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6787
+"240452789"|Drafts are deleted when they cannot be sent|k-9|https://github.com/k9mail/k-9/issues/2616
+"240683724"|Build with Android O SDK (Android 8.0 / API 26)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/863
+"241245289"|Developer Options / Advanced settings|focus-android|https://github.com/mozilla-mobile/focus-android/issues/871
+"241632591"|Use LeakCanary in Dev (And Beta?) builds|focus-android|https://github.com/mozilla-mobile/focus-android/issues/887
+"241838792"|Consider adding startup time test|focus-android|https://github.com/mozilla-mobile/focus-android/issues/892
+"242139774"|focus / klar useragent and fingerprinting|focus-android|https://github.com/mozilla-mobile/focus-android/issues/902
+"242360361"|Unsubscribed users are not removed from groups|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6806
+"242378760"|Deploy Focus to Amazon Store?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/908
+"242587743"|Seems like sth. went wrong.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/919
+"242991931"|White screen while playing Vimeo videos |focus-android|https://github.com/mozilla-mobile/focus-android/issues/925
+"242992914"|Vimeo.com displayed blank  on Nexus 7 ( 5.1.2) |focus-android|https://github.com/mozilla-mobile/focus-android/issues/926
+"243124909"|Use Photon icons|focus-android|https://github.com/mozilla-mobile/focus-android/issues/938
+"243136496"|Document supported Android versions|focus-android|https://github.com/mozilla-mobile/focus-android/issues/941
+"243415376"|[meta] Block more ads (blocklists management)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/953
+"243418952"|Evaluate if we should remove autocomplete list from address bar|focus-android|https://github.com/mozilla-mobile/focus-android/issues/958
+"243418982"|Make settings page more comprehensive|focus-android|https://github.com/mozilla-mobile/focus-android/issues/962
+"243494403"|Something should be done about the following two things|k-9|https://github.com/k9mail/k-9/issues/2630
+"243824595"|Use post instead of get request of search engines|focus-android|https://github.com/mozilla-mobile/focus-android/issues/977
+"244113248"|Automate release notes|focus-android|https://github.com/mozilla-mobile/focus-android/issues/981
+"244465766"|Do not report 'null' search engine|focus-android|https://github.com/mozilla-mobile/focus-android/issues/984
+"245036878"|IllegalStateException: BrowserFragment.showDownloadPromptDialog|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1000
+"245364525"|Buddybuild SDK crash: No static method getNewDefaultConfig(Landroid/app/Application;)Lorg/acra/ACRAConfiguration|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1004
+"245474090"|"Consider adding more ""App Shortcuts"" for API25+"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1009
+"245554810"|Simplify URL matching a bit more, remove FocusString|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1012
+"245564487"|"Tag blocklist entries with owner (part 1 of ""Show details about blocked trackers"")"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1014
+"245730162"|BCC not visible in sent folder|k-9|https://github.com/k9mail/k-9/issues/2643
+"246115548"|Clarify 'Trackers Blocked' meaning from Switch functionality |focus-android|https://github.com/mozilla-mobile/focus-android/issues/1026
+"246328162"|Check if updating user is in group|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6828
+"246560405"|Use HTTPS with Autocomplete Domains that Support it|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1043
+"246595476"|Advanced homescreen|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1044
+"246617688"|Yahoo Changed there Servers|k-9|https://github.com/k9mail/k-9/issues/2653
+"247145387"|Settings polish: The option to make Focus default is currently buried in the settings menu.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1054
+"247153397"|The drop-down search suggestions feels redundant without history-based suggestions to pull from|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1057
+"247373236"|single recipient conversation ends as group after update to 4.9.0|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6847
+"247464341"|After installing a new app from Focus, 'Open' from notification tray does not work|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1063
+"247471611"|When google is set to search default, search term is not displayed outside U.S.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1065
+"247841870"|All settings gone after update to 5.207|k-9|https://github.com/k9mail/k-9/issues/2657
+"247844147"|Auto reply function|k-9|https://github.com/k9mail/k-9/issues/2658
+"248105213"|Update App Icon|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1092
+"248138908"|If you change System Locale, App Locale does not update until Restart|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1094
+"248192785"|Feature Request: App Shortcuts|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6856
+"249214917"|Mozilla Firefox Focus, Mozilla Firefox Klar is connecting to mozilla servers. T/F|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1115
+"249215690"|Telemetry, Health Report, Anonymous Usage data|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1116
+"249216099"|Privacy list - where to download these data?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1117
+"249316862"|"[Illegal] Change ""Anonymous usage data"" to ""Identifiable usage data""."|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1120
+"249579585"|Does Mozilla Focus / Mozilla Klar check app update like Mozilla Firefox?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1128
+"249991689"|Word mark not moving up when app is set to Russian?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1137
+"250131717"|"Add option to disable ""encrypted but not signed"" warning"|k-9|https://github.com/k9mail/k-9/issues/2681
+"250513249"|[ fr ] block images|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1141
+"250860330"|Add UI test for custom tabs|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1158
+"251021341"|ArrayIndexOutOfBoundsException: HttpURLConnectionTelemetryClient|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1167
+"251397197"|Error decrypting base64 email|k-9|https://github.com/k9mail/k-9/issues/2688
+"251400531"|Why not providing HTTP and SOCKS proxy implementation?|k-9|https://github.com/k9mail/k-9/issues/2689
+"251438065"|What about adding Google Encrypted?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1175
+"251440760"|Calls repeatedly crash Signal on ARMv7 devices without NEON|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6884
+"252238492"|Settings open slowly (Pixel XL, Android 8)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1193
+"252405518"|Problem with opening attach pics and Viewing embedded pics|k-9|https://github.com/k9mail/k-9/issues/2699
+"25272790"|Sender incorrect for my own message details|Signal-Android|https://github.com/signalapp/Signal-Android/issues/531
+"252877447"|Unable to open comments page on reddit ( with some workaround)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1207
+"253161999"|corrupted mail headers when To/Cc longer than 1024 characters|k-9|https://github.com/k9mail/k-9/issues/2709
+"253188475"|[Feature Request] Target Android API level 26|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6900
+"253270527"|Android 8: Create adaptive icons for home screen shortcuts|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1214
+"253800237"|New tab shows more than first subdomain|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1231
+"253951050"|Telemetry for Service.onTaskRemoved()|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1236
+"253964843"|"If From & To ""to long"" it show ""null"" instead of the e-mail/name "|k-9|https://github.com/k9mail/k-9/issues/2717
+"253972564"|Page contents not rendered after a certain scroll offset|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1238
+"253984318"|[Multitasking] Back button behavior|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1241
+"254212639"|Add an option to block all pop-ups.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1255
+"254984782"|Screenshot of context menu when long pressing a link|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1267
+"255127919"|Can't resend message despite being notified the message couldn't be delivered|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6919
+"255218326"|https (lock icon) state does not get restored when switching tabs|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1272
+"255986104"|"""Add to home screen "" menu item is missing on Android O"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1288
+"256180959"|Reply icon missing in email view|k-9|https://github.com/k9mail/k-9/issues/2742
+"256203073"|Mozilla menu not localized|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1300
+"256322074"|"""Send Usage Data"" settings menu is missing toggle switch"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1301
+"256439699"|Feature Request: autocomplete previously used email addresses|k-9|https://github.com/k9mail/k-9/issues/2746
+"256537025"|"MMS picture messages go to a ""group"" with just me and the sender"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6951
+"257298330"|does not replace or update k-9 accounts widget|k-9|https://github.com/k9mail/k-9/issues/2762
+"258233059"|[Feature Request] Keywords Search|Signal-Android|https://github.com/signalapp/Signal-Android/issues/6969
+"258541701"|SSL handshake fail with latest version|k-9|https://github.com/k9mail/k-9/issues/2778
+"259084756"|[Meta] Improve Custom Tabs Interactions|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1341
+"259768576"|Empty screen in 'About' menu|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1361
+"259794179"|Logo Check|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1369
+"259859157"|Plesse add export / import feature|k-9|https://github.com/k9mail/k-9/issues/2786
+"259922354"|IllegalArgumentException: null URL (SessionManager.createSession)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1373
+"261332277"|"4.10.12 crash after sending message in a group"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7000
+"261435740"|Images open zoomed-in instead of in overview mode|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1416
+"261912178"|Firefox focus settings should be have an option for enable/disable screenshot protection|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1426
+"26241313"|MMS not working on Nexus 4 KitKat|Signal-Android|https://github.com/signalapp/Signal-Android/issues/569
+"263041586"|Custom folders on main screen|k-9|https://github.com/k9mail/k-9/issues/2818
+"263196628"|Tap on image preview causes crash|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7050
+"263284744"|Android O allows you to create duplicate homescreen shortcuts but titles must unexpectedly be the same|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1444
+"263641034"|Delete messages in the Inbox and/or Trash folder by date range|k-9|https://github.com/k9mail/k-9/issues/2822
+"263641460"|Crash recording audio message if microphone permission is disabled|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7062
+"264011860"|Back button inoperative when keyboard deployed.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7076
+"265368690"|"Crashing on replying & jumping from ""to"" box"|k-9|https://github.com/k9mail/k-9/issues/2836
+"265464451"|Missing option to notify of unread status of thread not on each incoming message|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7095
+"265539510"|Signal crashed on MMS receive|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7096
+"266100113"|"Feature request: cookies ""gray-list"" &  option to auto accept cookies / disable location"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1485
+"266669403"|[UX] Invisible scrollbar|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1499
+"266802739"|IllegalArgumentException: BrowserFragment.queueDownload|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1501
+"266903338"|[breakdown][ux] improve onboarding experience|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1508
+"266911800"|[meta][ux]Android O allows you to create duplicate homescreen shortcuts but titles must unexpectedly be the same|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1509
+"266914644"|[meta][ux]Already loaded tabs are reloading while switching (excess data usage?)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1513
+"267249207"|Increase 4MB apk size limit|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1523
+"267403530"|Ability to force disable encryption for certain contacts|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7116
+"268591563"|Consider allowing users to ignore SSL errors via prompt|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1563
+"268624374"|Many automated tests in k9mail.src.test.java.com.fsck.k9 fail|k-9|https://github.com/k9mail/k-9/issues/2866
+"268691688"|Rename release branches|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1564
+"268826744"|FANDOM wiki links don't work with tracking protection enabled|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1566
+"268958608"|Notification dissapears mid marking items as unread (when polling?)|k-9|https://github.com/k9mail/k-9/issues/2872
+"269096676"|Switchboard: Add mechanism for overriding the local experiment configuration|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1584
+"269108691"|New group is empty after I joined, no interaction possible|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7134
+"269573688"|Links are marked as visited after history was wiped|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1600
+"269779706"|[ux] Quick access to favourite sites (requiring login) - iterate|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1608
+"269779925"|[ux] Quick access to favourite sites (requiring login) - deliverables|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1609
+"269925455"|Unable to find view id when convert into module|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1614
+"270212250"|Dropdown on geckoView is not working.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1620
+"270347244"|Inline text part not displayed|k-9|https://github.com/k9mail/k-9/issues/2891
+"270479567"|[ux] improve custom tabs experience - deliverables|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1629
+"270692565"|Renumber telemetry timestamps so sessions can be split up (for Redash)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1633
+"270761118"|Outbox sitting with email after being offline|k-9|https://github.com/k9mail/k-9/issues/2898
+"270868826"|Error importing backup: xmlParseCharRef 55357|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7155
+"271656730"|notification area opens account instead of inbox|k-9|https://github.com/k9mail/k-9/issues/2917
+"272142462"|On phones with 2 SIM cards, signal ignore settings of default SIM card selected to send SMS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7167
+"272455632"|transformDexWithInstantRunDependenciesApkForFocusGeckoBeta|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1680
+"272596791"|Word 'message' is prepended to outgoing messages when using Android Auto|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7168
+"272611149"|Feature discussion: Blockchain verified conversations|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7169
+"272818681"|RFE/C: Optionally Use Installed Search Engines For Browser Open Tiles/Fields|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1692
+"272909674"|"Consider removing the ""Browsing history has been erased"" popup message"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1696
+"27297111"|Readme - BitHub|Signal-Android|https://github.com/signalapp/Signal-Android/issues/591
+"273037890"|Signal does not ring when the phone is locked|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7173
+"273190167"|Drafts are not displayed in message list|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7179
+"273549813"|Import settings crashes on older phones|k-9|https://github.com/k9mail/k-9/issues/2935
+"273781715"|Crash after setting profile picture a second time. First attempt does not change picture.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7192
+"274108111"|Firefox Focus blocks Autofill Credentials javascript|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1717
+"274403544"|Partnership with The Tor Project|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1722
+"274709174"|"4.13.0 beta introduced an ""optical glitch"" when marking conversations in the new layout of conversation overview list"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7198
+"275401213"|Pull-to-refresh: Telemetry probe|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1750
+"275526767"|[sumo] need article to describe Quick Access feature|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1754
+"275796194"|Latest version cannot work with OpenKeyChain|k-9|https://github.com/k9mail/k-9/issues/2944
+"275989518"|"Focus ""Pull to refresh"" makes playing Canvas games impossible "|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1779
+"276745181"|Problems with Youtube videos on tablet|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1803
+"277070886"|Crash when editing group members|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7225
+"277432873"|Telemetry probes for autofill|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1821
+"277763477"|String import failed while fetching L10N repository.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1832
+"277948560"|WebViewDataTest fails on API 26+ after Android Profiler file injection (part 1: whitelist)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1842
+"277971722"|hi sir|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1847
+"278229952"|"Content description of ""menu"" button in search engine and autocomplete settings not translated"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1855
+"278517137"|"Closing app in ""recent apps"" screen does not remove cookies (and maybe more)"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1875
+"278577484"|"Add ""edit"" option to custom search engine list"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1881
+"278587309"|Lastpass offers to autofill custom autocomplete url field|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1882
+"278944692"|Sender not in contact list message when opening a conversation.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7244
+"278995235"|[4.14.1] Signal crashes when trying to send sms without sms permissions.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7246
+"279075769"|Lastpass tries to remember the newly added search engine name|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1896
+"279077945"|Changing locales after deleting search engines only restores partial list of search engines|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1897
+"279501161"|Gmail: IMAP prefix [Gmail] ignored|k-9|https://github.com/k9mail/k-9/issues/2963
+"279799070"|When changing orientation in any Settings submenu, the app exits to main settings UI|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1924
+"279873607"|[meta] Add search suggestions|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1930
+"279917855"|Add additional validation (just making a network request?) to add search engine|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1936
+"280096425"|SearchEngineManager.restoreDefaultSearchEngines() should use apply() instead of commit()|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1944
+"280099060"|AutocompleteListFragment: Remove redundant '.let' call|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1946
+"280145035"|"Pop-up issue with no possibility to hit ""back"""|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1949
+"280340764"|"Provide new string for error handling for ""Add Search Engine"" URL validation, or update handling entirely"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1963
+"280492908"|ClassCastException when syncing (folderImapList cannot be cast to java.lang.String)|k-9|https://github.com/k9mail/k-9/issues/2966
+"280522946"|Search engine validation: Maybe do HEAD request|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1970
+"280602377"|"Indicate ""selected state"" of default search engine more obviously"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1983
+"280801154"|export/import settings does not preserve order of accounts|k-9|https://github.com/k9mail/k-9/issues/2969
+"280835511"|Search bar pops up address autofill options every time app is opened|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1993
+"281628300"| Share Pocket(Firefox)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/1995
+"282254235"|Custom autocomplete urls do not remain as https|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2000
+"28238635"|Add an option to control when SMS are sent|Signal-Android|https://github.com/signalapp/Signal-Android/issues/671
+"28245350"|Cannot delete contact key|Signal-Android|https://github.com/signalapp/Signal-Android/issues/682
+"28257963"|TextSecure Federation documentation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/698
+"28263772"|Access through share menu accesses old contact selector which no longer works|Signal-Android|https://github.com/signalapp/Signal-Android/issues/701
+"282646805"|Feature Request: Blocking images|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2001
+"28310093"|Feature request: show full sent time underneath messages|Signal-Android|https://github.com/signalapp/Signal-Android/issues/746
+"28314375"|passphrase timeout does not work|Signal-Android|https://github.com/signalapp/Signal-Android/issues/748
+"28319144"|Spartan UI theme|Signal-Android|https://github.com/signalapp/Signal-Android/issues/753
+"28327886"|First SMS sent went to incorrect recipient|Signal-Android|https://github.com/signalapp/Signal-Android/issues/760
+"283386323"|"Dismissing ""Add custom URL"" leaves keyboard visible"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2011
+"283422141"|Document all the ways the browsing session can end|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2013
+"28366500"|Changing Phone Number doesn't work|Signal-Android|https://github.com/signalapp/Signal-Android/issues/791
+"284136176"|Per-contact ringtones don't work with an incoming call|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7293
+"284299517"|Feature Request: Creating splash screen for first time users.|k-9|https://github.com/k9mail/k-9/issues/2984
+"28457047"|[Feature] Mask the MRU thumbnail|Signal-Android|https://github.com/signalapp/Signal-Android/issues/850
+"28487256"|Add a help button to explain why you should set a passphrase|Signal-Android|https://github.com/signalapp/Signal-Android/issues/864
+"284896051"|"Email not sent, without any message, if attachments appended with underscore in file name like ""1_..."""|k-9|https://github.com/k9mail/k-9/issues/2994
+"285064907"|Version 5.400 does no longer automatically encrypt/sign messages to contacts with matching keys available|k-9|https://github.com/k9mail/k-9/issues/2997
+"28509012"|Prevent Traffic Analysis|Signal-Android|https://github.com/signalapp/Signal-Android/issues/878
+"285143033"|Feature request: provide an option to disable Autocrypt|k-9|https://github.com/k9mail/k-9/issues/3000
+"285147040"|Adding second account|k-9|https://github.com/k9mail/k-9/issues/3001
+"285240257"|identities do not always adhear to signature setting in composition default|k-9|https://github.com/k9mail/k-9/issues/3010
+"285249481"|Lost all account data after installing update of 29th|k-9|https://github.com/k9mail/k-9/issues/3015
+"28528802"|Visual indicator of trust level|Signal-Android|https://github.com/signalapp/Signal-Android/issues/883
+"285366937"|Create an overflow options menu instead of on long press for folders|k-9|https://github.com/k9mail/k-9/issues/3023
+"28556495"|Add Service Announcements|Signal-Android|https://github.com/signalapp/Signal-Android/issues/903
+"28566490"|[Feature/bug] Manually force SMS fallback|Signal-Android|https://github.com/signalapp/Signal-Android/issues/919
+"28587090"|Changing the group picture spawns an empty notification|Signal-Android|https://github.com/signalapp/Signal-Android/issues/936
+"286037012"|Move CI setup from Buddybuild|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2032
+"286080630"|Notification sounds quiet time problem.|k-9|https://github.com/k9mail/k-9/issues/3040
+"28629268"|Importing SMS from Default app sends all failed messages in old threads|Signal-Android|https://github.com/signalapp/Signal-Android/issues/960
+"286350249"|Text overlapped b2box on Galaxy Note 8 |k-9|https://github.com/k9mail/k-9/issues/3046
+"286350880"|Text in Action Bar cut off with larger than normal system font size|k-9|https://github.com/k9mail/k-9/issues/3047
+"286360606"|"Red envelope on k-9 icon looks now ""evil"""|k-9|https://github.com/k9mail/k-9/issues/3048
+"28639492"|Color incoming messages in groups according to author|Signal-Android|https://github.com/signalapp/Signal-Android/issues/969
+"286479597"|UX: Display message if folder contains only old messages, which will not by synchronized|k-9|https://github.com/k9mail/k-9/issues/3055
+"28662413"|Wiki - Secure Contacts|Signal-Android|https://github.com/signalapp/Signal-Android/issues/983
+"28672005"|Remove duplicate entries from contact list & Sort contact list|Signal-Android|https://github.com/signalapp/Signal-Android/issues/986
+"287080813"|"At the first sync with a YahooMail! account K9 will see the ""DraftS"" folder but not what's inside of it. K9 gives essential a error of [Command: Examine ""Drafts""] "|k-9|https://github.com/k9mail/k-9/issues/3069
+"287305125"|Media preview: swipe gesture detection should behave more liberally|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7331
+"287741513"|Investigation of Unit and Instrumented Tests After LeakCanary Integration|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2041
+"287906483"|Add leak canary watches for fragments|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2045
+"288064358"|Long press over image > share image, shares address of image instead of image|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2046
+"288103826"|why search displayName，no result。|k-9|https://github.com/k9mail/k-9/issues/3085
+"288278561"|Blocked tracker count may be inaccurate (lower than actual)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2049
+"288400538"|Text of email does not appear |k-9|https://github.com/k9mail/k-9/issues/3094
+"28856653"|Deactivating all notifications|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1058
+"28858779"|QuickReply functionality|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1063
+"288661535"|unencrypted e-mail copy in trash folder|k-9|https://github.com/k9mail/k-9/issues/3096
+"288994047"|Close IMAP connections in connection pool after reasonable timeout|k-9|https://github.com/k9mail/k-9/issues/3101
+"28960070"|pt_BR L10n actually using pt_PT L10n|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1077
+"289663717"|Request: Discard Draft Changes|k-9|https://github.com/k9mail/k-9/issues/3110
+"289775807"|Empty message body when opening mail from server search results|k-9|https://github.com/k9mail/k-9/issues/3111
+"290185442"|Inline images removed when replying/forwarding an email|k-9|https://github.com/k9mail/k-9/issues/3113
+"290523933"|Readability?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2065
+"290688080"|Subject only decoded in part .|k-9|https://github.com/k9mail/k-9/issues/3125
+"29079633"|Can't receive any SMS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1108
+"291527860"|Text not quoted on reply to encrypted mail|k-9|https://github.com/k9mail/k-9/issues/3131
+"291940562"|Width of img tag isn't used|k-9|https://github.com/k9mail/k-9/issues/3139
+"292232858"|Composing message to address not in contacts jumps to message text|k-9|https://github.com/k9mail/k-9/issues/3150
+"292786401"|website causes firefox focus to stop loading any other pages until app storage is deleted|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2076
+"292984891"|Tapping message in index opens wrong message|k-9|https://github.com/k9mail/k-9/issues/3158
+"29334343"|"SMS from my bank/provider/... shown as ""Anonymous"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1143
+"293577929"|Cache isn't being cleared ever|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2079
+"29405116"|International data groups. Unidentified problem.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1152
+"294573753"|Voice call volume issue|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7395
+"294592224"|Fullscreen does not work properly with GeckoView|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2084
+"295707978"|Disallow sensor access on insecure contexts|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2092
+"296154932"|Menu has double entries of Outbox as an option|k-9|https://github.com/k9mail/k-9/issues/3177
+"296832788"|Use GeckoView AAR from Maven repo|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2101
+"297321708"|Custom tabs menu needs to show branding|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2106
+"297371236"|Group call feature |Signal-Android|https://github.com/signalapp/Signal-Android/issues/7414
+"297675265"|search function does not include conversation content or archived conversations|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7418
+"298228467"|non-ASCII characters break link detection|k-9|https://github.com/k9mail/k-9/issues/3188
+"298369652"|Feature Request : Show and browse folders tree in the same way a file manager does|k-9|https://github.com/k9mail/k-9/issues/3190
+"298648838"|X86 support gecko builds|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2122
+"298921278"|Please add option for creating new tabs|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2124
+"298924869"|Please add a new feature for quick search|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2125
+"299243289"|Import from plaintext backup fails.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7430
+"299592998"|"Optional ability to confirm ""have read"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7435
+"299957529"|"Option ""mail to:"" missing."|k-9|https://github.com/k9mail/k-9/issues/3211
+"300243468"|Strings import: oc / anp / an / wo / tt is not a valid locale|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2167
+"300743340"|"""What's new?"" URL for Focus/Klar 4.1"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2176
+"300979679"|Add animation when switching from custom tab to full browser|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2188
+"300982319"|Problems opening .JPG (capital letters) attachment with specified app|k-9|https://github.com/k9mail/k-9/issues/3226
+"301230009"|Compact and empty trash for all accounts|k-9|https://github.com/k9mail/k-9/issues/3227
+"302131376"|Focus shifts to message body while typing addresses|k-9|https://github.com/k9mail/k-9/issues/3235
+"302266972"|GeckoView: Download without permission shows error dialog|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2221
+"302332574"|Klar+GevkoView fails to open certain links |focus-android|https://github.com/mozilla-mobile/focus-android/issues/2227
+"302459223"|Add bookends in the client code for NimbleDroid testing|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2235
+"302479102"|Update taskcluster script to submit builds to nimbledroid|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2237
+"302867644"|Ability to disable pull-down-to-poll-mail-server|k-9|https://github.com/k9mail/k-9/issues/3240
+"303159153"|Remove http://www.breitbart.com/ from autocomplete list|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2252
+"303665465"|Can't send regular SMS |Signal-Android|https://github.com/signalapp/Signal-Android/issues/7479
+"303760827"|Google account |focus-android|https://github.com/mozilla-mobile/focus-android/issues/2265
+"303831301"|[4.17.0] Frontend loses contact with backup job|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7483
+"304096690"|Can't send or download MMS messages after taking out and putting back the SIM card|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7495
+"304115383"|Get rid of EmailProvider|k-9|https://github.com/k9mail/k-9/issues/3248
+"30417797"|Import Android SMS Database|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1265
+"304205953"|Include Signal in F-Droid|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7505
+"304544630"|In API 26, sometimes system notifications text is not detected by uiautomator|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2281
+"304937119"|Focus app instance from customTabTest persists, and closing from apps list fails the next test in queue|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2292
+"305067957"|feature request: print a mail|k-9|https://github.com/k9mail/k-9/issues/3260
+"305186564"|Custom Tabs: Support custom animations|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2299
+"305558976"|Sharing a link to Focus/Klar from the News Republic app opens the browser inside the app|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2309
+"305702731"|Notification doesn't go away when the message is read on another client|k-9|https://github.com/k9mail/k-9/issues/3264
+"305880486"|Fullscreen mode and devices with camera cutouts|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2316
+"306122985"|"Translation source: missed variables for ""one"" plurals"|k-9|https://github.com/k9mail/k-9/issues/3268
+"306565166"|Address GDPR changes in product, e.g onboarding (A/B test)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2327
+"306571058"|Support blocking of 3rd party cookies|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2330
+"30661386"|TextSecure does not receive SMS at all|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1279
+"306835349"|Use Switchboard to run A/B experiments|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2350
+"30731633"|Theme Support|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1283
+"307355644"|"4.1 RC - No SSL Cert Info "|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2360
+"307483942"|Tracking Protection toggle in the menu should block and unblock JavaScript and Web fonts|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2368
+"308275161"|Whole coversation timer leads to possible problems with simultaneity|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7562
+"308333462"|Unable to connect to IMAP via SSL/TLS|k-9|https://github.com/k9mail/k-9/issues/3280
+"30835490"|has leaked ServiceConnection Exception - relevant?|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1292
+"308671659"|No support for nested folders|k-9|https://github.com/k9mail/k-9/issues/3285
+"309062575"|java.net.MalformedURLException|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2390
+"309132014"|Refactor URLBar states|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2394
+"30928003"|"""End Secure Session"" doesn't always end secure session"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1308
+"30956282"|Auto init secure session dialog?|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1314
+"310733862"|"Groups: No way to hide the ""make your profile name and photo visible to the group"" nag message"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7605
+"310772802"|Generic media preview title for image/video at position 0|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7610
+"310847590"|PDF attachments sent from own Signal-Desktop instance cannot be opened or saved.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7618
+"310854126"|Change to system locale after device rotation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7619
+"31117518"|Continued crashing for every unencrypted message|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1326
+"311381280"|Remove telemetry calls to getDefaultSearchEngine|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2426
+"311438341"|Save encrypted copies of sent e-mail|k-9|https://github.com/k9mail/k-9/issues/3304
+"312005337"|Refactor domain/url auto-completion to use new android-components|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2435
+"312330877"|Signal Desktop and Android app are not updating read messages that were read on phone|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7661
+"312668840"|Testing whether creating new issues creates references in old closed ones that are locked down|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7664
+"312927002"|Add cert info screenshot to l10n screenshot test|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2444
+"312999873"|Make sure the wiki / docs are up to date|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2447
+"313463315"|"Email notification stays visible after clicking ""Delete"""|k-9|https://github.com/k9mail/k-9/issues/3330
+"313887103"|In Focus Webview Debug, About Focus and Your Rights page have about:blank URL|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2455
+"314325791"|About the focus|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2459
+"314392824"|Use GeckoView API to control web font blocking|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2460
+"314405675"|[4.17.5] Signal doesn't show any contacts on LineageOS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7681
+"314471935"|[meta] Block modal pop-up and pre/inter/postitial ads|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2461
+"316339246"|Upgrade to android-components 0.4|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2492
+"316565408"|Attachment changes size|k-9|https://github.com/k9mail/k-9/issues/3354
+"316945264"|Replace example.com with mozilla.org|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2504
+"316994994"|Duplicate recipient issue|k-9|https://github.com/k9mail/k-9/issues/3356
+"317425344"|Android client in crashing loop|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7731
+"317654860"|Request to include Findx.com as alternative search engine|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2525
+"317778489"|New What's New Link for 5.0|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2528
+"317829330"|pic contact|k-9|https://github.com/k9mail/k-9/issues/3361
+"317920529"|Verify we still send telemetry event for intent_custom_tab|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2531
+"318233839"|Unexpected behaviour when clicking on secure icon|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2537
+"318443294"|Cannot return from a failed FB Messenger share intent - app not installed|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2547
+"318514611"|[l10n][New Locale] Cornish (kw)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2552
+"318525872"|Accessibility Improvements to First Run, Loading, and Erase Button|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2553
+"31863087"|[Registration] workflow improvement when registering using temporarily a second device: allow to use first verification code sent in first SMS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1399
+"318978641"|Bad accents in subject|k-9|https://github.com/k9mail/k-9/issues/3366
+"319057217"|Request Desktop for GV Builds|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2564
+"319104112"|UX Polish - Adjust position and size of quick add autocomplete button|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2567
+"319778929"|Sync all starred messages?|k-9|https://github.com/k9mail/k-9/issues/3369
+"319966116"|Upgrade to android-components 0.5|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2581
+"32000635"|Images missing after import of encrypted backup|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1410
+"320638867"|"Feature: Add ""delete"" button to notifications menu"|k-9|https://github.com/k9mail/k-9/issues/3372
+"322664118"|UI for easier privacy and security blockers selection|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2603
+"322707544"|Add en-CA to locales.py|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2605
+"323103752"|Add find/search in page button in menu|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2619
+"323210550"|K-9 Mail can't handle inline pgp messages|k-9|https://github.com/k9mail/k-9/issues/3389
+"323369185"|Right to left layout for rtl languages|k-9|https://github.com/k9mail/k-9/issues/3391
+"323726722"|Read receipts lie when sending large file to signal user on slow connection|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7801
+"324120518"|Get local names for tzs and ixl|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2627
+"324172333"|App crashes right after I open it|k-9|https://github.com/k9mail/k-9/issues/3397
+"324470147"|Search suggestion UI in URL Overlay|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2629
+"324735835"|About pages are shown as insecure|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2631
+"325035925"|How to add class as a jar|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2634
+"325268606"|Klar (Geckoview) crashes when trash icon is clicked after site is loaded|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2635
+"325332822"|Releng for 6.0|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2638
+"325515356"|Mute functionality does not persist when switching screens|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7827
+"325772889"|"URI scheme filtering causes erroneous ""open in app"" dialog"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2651
+"325949215"|Notification volume goes to max on Android 8 (Oreo)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7832
+"326637383"|Klar Geckoview crashes while nimbledroid run after pm clear <pkg> and load website|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2663
+"326822058"|Opening folder from drawer doesn't respect thread view setting|k-9|https://github.com/k9mail/k-9/issues/3414
+"327928733"|Redesign URL bar – active (initial state only)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2677
+"327930196"|Redesign URL bar – active (typing)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2678
+"327967328"|Redesign menu & dialog – Context menu|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2686
+"32821585"|Copy & paste of messages that were not delivered correctly|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1452
+"329299380"|In Focus webview, on API 24 and below, clicking download link will not pop up the download dialog|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2696
+"329974682"|Auto Sync hit or miss on Galaxy S9+|k-9|https://github.com/k9mail/k-9/issues/3430
+"329985066"|L10N: missing placeholders in tsz, ixl|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2706
+"331728023"|Message List Color issue after Oreo Update (S7)|k-9|https://github.com/k9mail/k-9/issues/3440
+"332415276"|Message Size setting not being respected|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7897
+"333755673"|After Backup-restore group messages are send to unintended recipients|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7909
+"333858077"|Investigate App Slices/Actions Eng Requirements |focus-android|https://github.com/mozilla-mobile/focus-android/issues/2759
+"334475948"|String import blocked on 'ay' errors|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2769
+"334679866"|To: insert space after comma|k-9|https://github.com/k9mail/k-9/issues/3461
+"334954131"|"Remove ""internal"" Nightly"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2777
+"335038684"|Signing task of build/sign/push pipeline doesn't rename *-unsigned.apk to *-signed.apk|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2779
+"335179520"|The app becomes unusable with large inboxes.|k-9|https://github.com/k9mail/k-9/issues/3472
+"335199581"|Firefox Focus for Android (mod_rewite with 301 or 302 from http to https failure)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2786
+"335324992"|Invalid XHTML in 'af' translation|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2788
+"335463070"|[Meta] Make engine choice a runtime option|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2792
+"336390732"|Echo on callee side when using headphones during Signal Call|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7947
+"336577691"|Override icon for Nightly track|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2818
+"337062226"|"""Continue with Facebook"" link missing text on Slickdeals deal page"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2830
+"337320971"|app icon is a white square|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7957
+"338130106"|"6.0 Crash: IllegalStateException: CustomTabMenuItemViewHolder.onClick "|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2846
+"338275006"|Focus crashes when copying link with menu item in Slack custom tab |focus-android|https://github.com/mozilla-mobile/focus-android/issues/2848
+"338676003"|Blocked users don't leave groups on the blocker's phone|Signal-Android|https://github.com/signalapp/Signal-Android/issues/7970
+"339362185"|App crashes when entering in the unified inbox|k-9|https://github.com/k9mail/k-9/issues/3493
+"339444204"|Beta feedback about typing|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2866
+"339490944"|Cannot paste text into input fields|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2867
+"339618562"|AddtoHSTest.java is failing|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2873
+"341134310"|Sentry: RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground()|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2902
+"34126005"|TouchWiz notifications|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1526
+"341571872"|GeckoView: Links with custom schemes do not work|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2911
+"341614248"|Update GV to 62.0b8|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2912
+"342019188"|debian.org & gnu.org open in Chinese|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2920
+"342480440"|On Webview, CNN video fails to load with TP on|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2928
+"342809613"|Wayland page not displayed correctly|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2937
+"342971254"|FullBackupImporter.trimEntriesForExpiredMessages() crashes.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8011
+"343354074"|Photo drawing moves when switchen between portrait and lanscape mode|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8022
+"343781645"|Change GV save state to use GeckoResult|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2959
+"343897081"|One-tap action – Add Custom URL|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2966
+"344177530"|URLBar is opaque on first launch|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2971
+"344393472"|cancel set up a new account, reopen the app will cause app crash|k-9|https://github.com/k9mail/k-9/issues/3527
+"344594053"|IllegalAccessError: There's no active custom tab session with id 405ad8af-5c7d-4b23-bfab-455010f35bce|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2986
+"344854580"|missing icon badge notification and status bar notification  |Signal-Android|https://github.com/signalapp/Signal-Android/issues/8038
+"344901766"|Can't copy the URL address of the current search.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2994
+"344902360"|Firefox Focus 6.3 is not using Gboard Private Mode for the find in page feature.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/2995
+"345455209"|GV Find in Page Highlight does not clear when exit find in page|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3012
+"345905174"|[enhancement] do not discard unsend message when the application is reopened|k-9|https://github.com/k9mail/k-9/issues/3534
+"34598318"|Lock Button in Notification DropDown |Signal-Android|https://github.com/signalapp/Signal-Android/issues/1541
+"346061431"|"Only send GeckoView crash reports if telemetry is enabled (""Send usage data"")"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3027
+"346553054"|Signal probably crashed|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8060
+"347076076"|The social engineering resistance is bugged|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8065
+"347378067"|Scrolling m.facebook.com crashes GeckoView|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3056
+"347449633"|Display of non-mobile pages is suboptimal with Webview and worse with Geckoview|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3057
+"348169899"|Sumo links for 7.0|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3077
+"348170607"|Finalize strings for 7.0 beta|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3078
+"348429400"|Two request desktop sites visible in menu|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3081
+"348582713"|The first search suggestion box on Android tablet covers over all the other suggestions|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3085
+"349601742"|A/B Test for home screen tips|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3102
+"350462790"|The new password screen in incorrect|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8106
+"35104622"|Incompatible with Google Nexus 7 LTE (2013)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1560
+"351618818"|Youtube video/audio playback stops when screen is turned off|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3153
+"351677331"|Update UI tests to reflect search suggestion changes|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3155
+"351871744"|Zillow pages reload automatically (pages are not usable)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3162
+"351881054"|Fleksy Keyboard Issue|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3163
+"352241231"|Pop Up Preferences Don't Match New Style|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3168
+"352489175"|eu: missing placeholder in translation, key: preference_show_search_suggestions_summary|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3176
+"352748932"|[l10n] New locales ready for testing, and new locales ready for shipping|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3185
+"353202458"|Consider blocking slow tracking elements|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3199
+"353657122"|Can't send mail -  Error: need RCPT command|k-9|https://github.com/k9mail/k-9/issues/3568
+"354112165"|letsencrypt certificate renewal|k-9|https://github.com/k9mail/k-9/issues/3571
+"354294617"|hus: Missing placeholders|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3227
+"354415694"|cannot upload videos|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8142
+"35454869"|"encrypted SMS ""Message encrypted for non-existing session"" from unknown number"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1590
+"355119827"|No more custom tabs in beta (regression)?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3245
+"355662623"|L10N - Klar for non-German Swiss|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3255
+"356027124"|Tip telemetry needs updated|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3263
+"356123037"|Switching out and back while changing the address breaks the UI|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3270
+"356486629"|Focus crashes when restoring default search engines|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3290
+"356499456"|dark theme bug|k-9|https://github.com/k9mail/k-9/issues/3595
+"356535034"|Send usage data is enabled by default|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3295
+"356561967"|Selections for removing search engines is not visible |focus-android|https://github.com/mozilla-mobile/focus-android/issues/3296
+"356583880"|Problem registering with Signal|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8170
+"356858400"|Can't switch build to using GeckoView on some devices|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3306
+"356932166"|Disable tips tip fails to deep link|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3310
+"357790430"|Need a way to make Geckoview/webview default for UI tests|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3335
+"357850699"|App is deleting all but the last 30 days of emails in Inbox|k-9|https://github.com/k9mail/k-9/issues/3599
+"358470349"|Fix contrast ratio of search placeholder text|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3366
+"358547971"|Feature request: Markdown support (UI and text/markdown from RFC 7763/7764)|k-9|https://github.com/k9mail/k-9/issues/3608
+"358721401"|dropped message in group |Signal-Android|https://github.com/signalapp/Signal-Android/issues/8196
+"35893313"|Gradle 'TextSecure' project refresh failed|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1616
+"359065858"|Open in new tab title should have a shorter string|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3373
+"35951191"|TextSecure not initiating key exchange properly|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1618
+"360173207"|https://phabricator.services.mozilla.com/ is unusable in Focus|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3410
+"360631421"|Cannot set 'None' (silent) notification sound|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8206
+"361227321"|Telemetry records empty A/B experiments list|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3434
+"361814496"|Figure out Why GV A/B Experiment Isn't Rolling Out As Planned|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3443
+"362950657"|First run tour not localized (into Lithuanian)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3465
+"363121469"|missing folders in Yahoo mail|k-9|https://github.com/k9mail/k-9/issues/3626
+"363336141"|about:blank is displaying briefly when loading web pages|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3473
+"363544989"|Signal has stopped working. Error when restoring from encrypted backup.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8222
+"364093178"|"""Show homescreen tips"" doesn't work - Issue #3179 regression"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3487
+"364667848"|Facebook Pixel protection|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3500
+"365248801"|Trackers blocked counter `i` icon misplaced|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3522
+"366502494"|K9 traffic exploded|k-9|https://github.com/k9mail/k-9/issues/3642
+"367201533"|LastPass Autofill shows in the search bar|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3570
+"368388994"|"""Search privately"" does not start a browsing session"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3598
+"368915523"|recover (after reinstall) missed the file on external SD card !!|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8271
+"369181425"|Geckoview NullPointerException|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3618
+"369560695"|Crash when saving custom search engine|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3625
+"369820098"|Add more Content Blockers |focus-android|https://github.com/mozilla-mobile/focus-android/issues/3632
+"371206815"|Debug log uploader introduced in 4.25.x makes it difficult to remove irrelevant lines|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8280
+"371484654"|Second line in head not visible|k-9|https://github.com/k9mail/k-9/issues/3664
+"371573777"|Disable email deletion per account settings|k-9|https://github.com/k9mail/k-9/issues/3665
+"371684273"|Chromebook: white bar remains after closing app|k-9|https://github.com/k9mail/k-9/issues/3666
+"371730040"|Legal Localization Issue|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3684
+"371837152"|Odd behavior when trying to download (consecutively received) pictures|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8287
+"372148455"|On Fresh Install - sending link to Focus does nothing|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3693
+"372240490"|Adding Exchange account throws NPE|k-9|https://github.com/k9mail/k-9/issues/3669
+"372243451"|Misbehaviour when trying to correct typed address after suggestions |k-9|https://github.com/k9mail/k-9/issues/3671
+"373097683"|Add absolute paths for UI test job conf files|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3716
+"373177466"|Security Bug [Redacted]|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3723
+"373179671"|[l10n] Tének locale appears as language code|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3724
+"373687633"|Older Devices Don't Save GV History |focus-android|https://github.com/mozilla-mobile/focus-android/issues/3738
+"374019477"|Add new level of Cookie blocking (new GV API)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3749
+"374280704"|UX: Unable to make regular voice call from message screen|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8308
+"374441125"|Crash on launching the app |focus-android|https://github.com/mozilla-mobile/focus-android/issues/3773
+"374669491"|Download Complete Message creates new timestamp|k-9|https://github.com/k9mail/k-9/issues/3684
+"375277491"|Consider search shortcuts in the URL bar|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3808
+"375772836"|Integrate ProtonVPN support|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3817
+"376032499"|Sent messages being mysteriosuslyl opened |Signal-Android|https://github.com/signalapp/Signal-Android/issues/8331
+"376168587"|Custom Tab notification never goes away when app is swiped away (or force closed)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3821
+"376820291"|Tracking protection doesn't work|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3826
+"376912581"|Incorrect behavior for setting default browser in Android >6.0|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3829
+"377034789"|broken wrapping of quotes |k-9|https://github.com/k9mail/k-9/issues/3692
+"377098449"|"after clearing history, links from previous session flicker ""visited"" color sometimes"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3839
+"378261476"|Backup taking to long and not restorable. Only 20 contacs with 50 messages|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8347
+"378309317"|How to create Flagged Folder or unread Folder?|k-9|https://github.com/k9mail/k-9/issues/3698
+"379417771"|Unable to restore encrypted backup - Bad MAC|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8355
+"379451174"|Crash Reporter shows about:blank with unclickable search term|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3872
+"379543600"|prefer-encrypt: mutual header is not sent|k-9|https://github.com/k9mail/k-9/issues/3703
+"379600312"|Video fullscreen option freezes the page in the About Mozilla section|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3875
+"379936151"|Move Telemetry wiki to a docs/Telemetry.md |focus-android|https://github.com/mozilla-mobile/focus-android/issues/3883
+"379977297"|Make Exception List Toggle Permanent In Both Directions|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3885
+"381641891"|Update notification channels when creating or deleting an account|k-9|https://github.com/k9mail/k-9/issues/3721
+"38169339"|SMS appearing in Plain Text in Notification Bar|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1710
+"381952923"|Auto update not working - permission REQUEST_INSTALL_PACKAGES missing|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8383
+"383318614"|Change reply behavior|k-9|https://github.com/k9mail/k-9/issues/3738
+"383388970"|InvocationTargetException and URISyntaxException occurs when opening about:|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3963
+"383791368"|Duplicated text when typing in a website's textbox (yes, again)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3965
+"384166392"|Incomplete message displayed on unread conversation of Android Auto|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8397
+"384433904"|Change minSdkVersion to 19, exclusively use Storage Access Framework to read/write (externally accessible) files|k-9|https://github.com/k9mail/k-9/issues/3752
+"384458590"|  Don’t use a new folder for sent e-mails|k-9|https://github.com/k9mail/k-9/issues/3755
+"384465990"|URISyntaxException|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3968
+"385812988"|Black screen on opening Focus|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3982
+"385917116"|Input fields on forms are covered by keyboard |focus-android|https://github.com/mozilla-mobile/focus-android/issues/3985
+"386417287"|All Firefox Apps Into F-Driod|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3992
+"386663909"|Accent colour isn’t accessible against background colour|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3995
+"38707224"|Bug? Maximal length message displayed for TextSecureMessages|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1742
+"387456808"|Add title attribute in image context menu|focus-android|https://github.com/mozilla-mobile/focus-android/issues/3997
+"388946246"|Recipients who don't open Signal don't know they have messages.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8431
+"389540751"|Part of a long thread is not shown|k-9|https://github.com/k9mail/k-9/issues/3813
+"389640957"|No notification on Withings smartwatch|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8437
+"390349964"|Add adblock toggle to onboarding card|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4016
+"390351714"|Add adblock tip with toggle|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4018
+"391440482"|K9 Mail grouping and sorting method|k-9|https://github.com/k9mail/k-9/issues/3826
+"392336593"|IllegalStateException from org.mozilla.focus.biometrics.BiometricAuthenticationDialogFragment.displayError |focus-android|https://github.com/mozilla-mobile/focus-android/issues/4045
+"392357350"|"gmail stopped working through CDMI (4G/3G/...) - ""unknown device""+""Critical security alert"""|k-9|https://github.com/k9mail/k-9/issues/3833
+"392424244"|Request: Please Add Signal To F-Droid|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8469
+"392443803"|[5.600 ParseException] Trying to open messages from specific sender|k-9|https://github.com/k9mail/k-9/issues/3834
+"39263402"|lost/not received push messages (during reinstall)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1775
+"392674863"|Hide adblock setting|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4047
+"392822661"|Link devices manually without QR|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8474
+"393307740"|Signals notification setting should have a no sound option|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8478
+"39353578"|Vodafone: CallYa Toppings not redeemable|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1780
+"394468453"|There should be some padding for contextual hints on start screen|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4069
+"394854578"|Convert Java classes to Kotlin|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4075
+"39514398"|Duplicate spell checking|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1793
+"395443397"|Fingerprint lock causes browser to crash.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4086
+"396471866"|Homescreen tips language doesn't change until restart|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4097
+"397005477"|"Signal suddenly showing ""Retrieving a message"" notification and eating LOTS of battery"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8516
+"397425004"|Pressing the Back button erases all tabs|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4105
+"400522027"|Messages get stuck after retries on SailfishOS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8536
+"401008064"|Sent picture got stuck at 5% and now I can't write anything after it|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8542
+"401031294"|Unable to reply to messages through Android Auto|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8545
+"401053657"|[BUG] 'Try Again' button malfunctions|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4158
+"401105886"|Fingerprint auth can be circumvented with Focus as the default browser.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4162
+"401271919"|Open link in new tab opens blank tabs|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4166
+"401849192"|Time stamp error|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8553
+"403147831"|Copy link address from an image with link - copies the img src|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4187
+"40407332"|visualization of X-custom fields of vcf|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1842
+"407834401"|Unhandled Promise Rejecion Error in desktop app, when waking from sleep|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8596
+"408584195"|"4.33.5 chewing through lots of battery "|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8605
+"409031705"|per identity sent folder|k-9|https://github.com/k9mail/k-9/issues/3914
+"40977333"|Exception causing/caused by failure to send SMS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1869
+"411475442"|Firefox Focus is draining my battery|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4208
+"413176348"|Update Focus Nightly to GV 67 Nightly|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4209
+"414317181"|Contacts Missing|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8639
+"414451665"|Fetching IMAP mails extremely slow |k-9|https://github.com/k9mail/k-9/issues/3927
+"416775658"|Can't download current builds|k-9|https://github.com/k9mail/k-9/issues/3940
+"417060512"|How to set the home web page in the software?|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4223
+"417475959"|K-9 Mail Does NOT Receive PUSH Notifications with Norton App Lock Keep App Locked In Session Box Checked|k-9|https://github.com/k9mail/k-9/issues/3945
+"417506357"|Time when K9Mail/Openkeychain ask for passphrase|k-9|https://github.com/k9mail/k-9/issues/3946
+"418245944"|Tap & Hold for Insecure Calls|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8669
+"419058499"|swipe-to-select doesn't work|k-9|https://github.com/k9mail/k-9/issues/3957
+"419170896"|Feature Request: Delete immediately (shift+delete)|k-9|https://github.com/k9mail/k-9/issues/3959
+"419245127"|New homescreen tip + toast|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4226
+"420202126"|Media Gallery UI (Landscape Mode)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8682
+"421888268"|Lost draft text after process death|k-9|https://github.com/k9mail/k-9/issues/3970
+"421922493"|build success but install failed|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4233
+"421947259"|App Closes On Pressing Back Button In Manual Setup |k-9|https://github.com/k9mail/k-9/issues/3971
+"423538032"|Messages with audio attachments can't be selected by tapping the audio player|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8702
+"425539620"|Regular SSLException: Write error|k-9|https://github.com/k9mail/k-9/issues/3986
+"426974837"|[Feature Request] Push Notifications API|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8721
+"427258476"|Dual Sim Selector for SMS |Signal-Android|https://github.com/signalapp/Signal-Android/issues/8725
+"427440651"|Send button has a misleading contentDescription|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8732
+"427840490"|Contact photos flickering when e-mails are downloaded|k-9|https://github.com/k9mail/k-9/issues/3998
+"429233051"|external storage doesn't work|k-9|https://github.com/k9mail/k-9/issues/4005
+"429234785"|Default notification settings should be global|k-9|https://github.com/k9mail/k-9/issues/4006
+"429741282"|FTBFS using the Dockerfile|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8741
+"43158230"|Show image hint instead of (no subject) for media/mms|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1934
+"435696379"|Firefox focus : Can't add an attachment in gmail|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4253
+"436730709"|Floating action bar isn't dismissed after pasting a word|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4256
+"438108839"|Autocomplete does not work in recent update|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4259
+"440880204"|Forwarding a message using another account uses wrong bcc|k-9|https://github.com/k9mail/k-9/issues/4039
+"441073383"|Trackers blocked counter always '0'|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4270
+"441306027"|Can't send MMS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8803
+"44170413"|All SMS messages to/from a contact shown as one conversation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1953
+"44295431"|Lost all my conversations (again), how come?|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1957
+"443297075"|Autocomplete doesn't stop if you continue typing a different URL|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4272
+"443481841"|K-9 is crashing indefinitely. Env: Android Q beta 3 (Google Pixel phone)|k-9|https://github.com/k9mail/k-9/issues/4047
+"443602485"|Inbox not sorted after deletion/return to inbox|k-9|https://github.com/k9mail/k-9/issues/4048
+"443801222"|Allow underscores in hostnames|k-9|https://github.com/k9mail/k-9/issues/4049
+"443953713"|[A11y] While loading a page over a different one, the page already opened is announced|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4277
+"444184600"|inline IMG not displaying with all-caps SRC attribute|k-9|https://github.com/k9mail/k-9/issues/4050
+"445560714"|Missing documentation on android proxy/client link preview user-agent|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8818
+"445870587"|IMAP sent mail folder doesn't appear to be syncing correctly|k-9|https://github.com/k9mail/k-9/issues/4059
+"446767107"|Signal Notifications Get Eaten By Inactive Clients|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8824
+"44702913"|MMS logout|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1968
+"447580475"|SMS on Dual SIM: Cannot see or select SIM, incoming SMS not received.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8826
+"447617191"|User defined spam action|k-9|https://github.com/k9mail/k-9/issues/4066
+"449684192"|Add ability to print an email|k-9|https://github.com/k9mail/k-9/issues/4074
+"450039054"|"Unable to loate ""Add New Account"" on Overflow Menu"|k-9|https://github.com/k9mail/k-9/issues/4077
+"45243802"|Video attachment size too small|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1981
+"452611712"|Erase history does not|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4292
+"45904824"|"Duplicate ""ALL CONTACTS"" Contacts"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/1999
+"459141557"|Crash on startup|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4300
+"461733449"|I'm not receiving group invite and group messages|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8894
+"46249708"|Communicationg is with some persons not possible anymore (Key Exchange failing)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2018
+"463451765"|Can't easily open links in Fenix|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4305
+"463696412"|Content-Type of attachments: handle text/rfc822-headers as message/rfc822|k-9|https://github.com/k9mail/k-9/issues/4094
+"464366415"|"Giphy ""Nothing Found"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8909
+"46604708"|Wrong Toast messages on sending error|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2030
+"467356938"|On turning Bluetooth toggle off I still hear a voice in earphones|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8919
+"467736188"|Crash when taking photo in group conversation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8926
+"46962020"|Can't receive messages via WhisperPush (TextSecure)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2044
+"470756550"|Signal website version no longer receives updates|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8936
+"471491743"|crash on photo opening|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8940
+"473644510"|See full contact profil image|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8958
+"473709935"|Enable use of about:config|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4317
+"47583249"|Problemes with group chats|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2064
+"476011456"|Disable Google SafeBrowsing|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4320
+"47611910"|"TextSecure sub-contacts rolled up into one line when trying to add new message from ""+"""|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2068
+"476434138"|Link previews automatically enabled (should be opt-in)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8971
+"477414879"|Unexpected behaviours after a screen orientation change (reported by activity)|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4324
+"478690361"|Signal search crashes after typing `AND`, `OR`, or `NOT`|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8975
+"478911296"|Wrong Contact in Header|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8976
+"479494813"|Incoming call buttons flicker and overlap|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8980
+"480320894"|Wrong phone number of Signal contact when creating group|Signal-Android|https://github.com/signalapp/Signal-Android/issues/8985
+"481151680"|The application still has some bugs|k-9|https://github.com/k9mail/k-9/issues/4160
+"484875592"|"Spelling Mistake ""Poll"" (should be ""Pull"")"|k-9|https://github.com/k9mail/k-9/issues/4171
+"48924621"|Automatically resend undelivered messages|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2098
+"495290391"|Sends message everytime it saves the draft of it.|k-9|https://github.com/k9mail/k-9/issues/4199
+"495738881"|Firefox Focus v8.0.17 aarch64 crashes during start|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4357
+"496473679"|Blank pages appear in Focus 8.0.18 on Pixel devices|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4360
+"496992333"|Crashes once something is downloaded|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4366
+"497705071"|The floating text toolbar is in the wrong place on GV 71|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4371
+"499560056"|APK for v8.0.20|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4375
+"50070960"|T-Mobile / Moto X 2014 Unrooted / Wifi Connected / MMS |Signal-Android|https://github.com/signalapp/Signal-Android/issues/2138
+"504437966"|mobile.bet365.com - page in limbo state|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4392
+"505199376"|The original searched term is not present in the URL bar after a search is executed.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4400
+"505211872"|"""Find in page"" through Custom tab does not work correctly"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4401
+"507947923"|<select>s and Date pickers are broken|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4408
+"50901155"|Refreshing the directory doesn't update displayed contact list|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2180
+"516940075"|Website page is abnormal|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4420
+"519928768"|[Bug] Page cannot be reloaded or edited after changing the Tracking Protection setting|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4428
+"520078858"|Downloading a file with the same name as an existing one, overwrites the previous file|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4431
+"522376425"|App becomes broken after switching|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4439
+"52543988"|TextSecure doesn’t see the external SD card|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2246
+"527795557"|[webcompat] latimes.com - unable to scroll because of the overlay.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4440
+"53203669"|MMS Stack Trace|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2282
+"53959272"|[Feature Request] Iphone Emoji|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2318
+"53959685"|[Feature Request] More theme|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2322
+"548625330"|Crash on launch|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4458
+"552529870"|Update Firefox Klar on F-Droid to patch this month's 0day|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4461
+"555150999"|Firefox Focus tab goes unresponsive|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4463
+"556390247"|Some fingerprint protection bugs|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4466
+"56798933"|Does not save drafts when no thread with contact exists|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2418
+"56904570"|Permanent textsecure communication failure with 2.5 version|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2420
+"57530209"|"Handle message ""types"" differently"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2468
+"57677071"|no key exchange and no encryption with textsecure user|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2470
+"57752969"|Problem with incoming group MMSs|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2477
+"57764075"|HTC devices seem to disagree on phone number equivalency|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2478
+"58137141"|My Downloaded source has issues|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2496
+"58918100"|Textil|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2527
+"58991046"|Polling support (until websockets work)|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2530
+"593630440"|Fallback Web Share links on youtube no longer work|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4498
+"593791952"|Unable to change the language to English from Arabic|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4499
+"597263524"|"""+ Add another search engine"" isn't aligned with the present search engines."|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4509
+"59833360"|Crash when receiving message from Signal user when TextSecure is processing input|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2576
+"60163499"|Need ability to manually unregister from OWS to switch to CM-Whisperpush|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2603
+"60199770"|Had to re-register after upgrade to 2.6|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2609
+"6034338"|Most recent message stored in plaintext|Signal-Android|https://github.com/signalapp/Signal-Android/issues/40
+"61600085"|make GCM for wakeup events optional|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2685
+"61723739"|Add support for composing PGP/MIME messages|k-9|https://github.com/k9mail/k-9/issues/572
+"61875584"|Add setting to delete messages from the server after download|k-9|https://github.com/k9mail/k-9/issues/580
+"619491243"|Tips don't get update when language changes|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4517
+"62067183"|SMS don't come in|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2704
+"62183565"|Video needs to be saved on disc to be playbacked|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2706
+"62826017"|[bug] Attachments showing up on the wrong email|k-9|https://github.com/k9mail/k-9/issues/583
+"629303056"|"Context menu: Add ""Open in app"" item"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4526
+"629303661"|Context menu: Add share image option|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4527
+"63025702"|Silently decrypting all conversations? Good bye! :(|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2723
+"630951207"|Let request interceptor load focus:about and focus:rights pages|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4541
+"63239523"|Open Links in browser not inline|k-9|https://github.com/k9mail/k-9/issues/587
+"633610539"|"8.4.0 no APKs"|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4548
+"63377476"|Messages sent to group delivered to private chat after the sender uses a new PreKey|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2739
+"635497258"|"[A11y] Extra information when user is present on the ""Search or enter address"""|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4557
+"63590473"|Reopen #2730, unable to send/reply message to TS user|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2754
+"641196545"|Create native UI for about screen etc.|focus-android|https://github.com/mozilla-mobile/focus-android/issues/4572
+"6424550"|Can't send MMS from system messaging app with TextSecure installed.|Signal-Android|https://github.com/signalapp/Signal-Android/issues/54
+"64859645"|Dynamic language issue after rotating screen|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2815
+"65069173"|When moving mail a second time, the folder list should be scrolled to the last folder used|k-9|https://github.com/k9mail/k-9/issues/597
+"65337781"|conversation snippet gross on group update|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2834
+"67692097"|crash bug - OOM bitmap related|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2944
+"67703235"|Long-pressing emoji backspace deletes only one character|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2945
+"67836954"|A lot of Emojis are missing from Emoji drawer and Emoji ordering and categorization is incorrect|Signal-Android|https://github.com/signalapp/Signal-Android/issues/2954
+"68259003"|Do not apply send attempt limit to manual operations|k-9|https://github.com/k9mail/k-9/issues/613
+"68299252"|Conversation list does not scroll to top on new message |Signal-Android|https://github.com/signalapp/Signal-Android/issues/2983
+"68917285"|Emoticons|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3001
+"69661566"|Downloading MMS Content Does Not Work|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3019
+"69827669"|Resource leak -- file not closed -- found by Facebook's static analyzer|k-9|https://github.com/k9mail/k-9/issues/618
+"70288950"|Signal has disappeared from the recent apps view|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3038
+"71591321"|Support for ProtonMail|k-9|https://github.com/k9mail/k-9/issues/626
+"71596669"|email content only displayed half way|k-9|https://github.com/k9mail/k-9/issues/627
+"72401040"|OOM - Crash while sending picture|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3094
+"73078256"|MMS Messaging not working|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3103
+"73285464"|TS crashes when sending or recieciving SMS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3109
+"74218228"|crash before it even unlocks|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3130
+"74307069"|Can't decrypt sent messages|k-9|https://github.com/k9mail/k-9/issues/637
+"74736861"|plus sign as initial, if number in contacts without name|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3145
+"74953181"|large message bubble backgrounds fail to render|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3148
+"75109461"|HTML code in message preview|k-9|https://github.com/k9mail/k-9/issues/640
+"75395593"|Add support for GCM cipher suites|k-9|https://github.com/k9mail/k-9/issues/641
+"76616515"|Screenshot shown in Overview/Recents if screen-off with TextSecure in focus|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3172
+"77624078"|Select and attach several attachments (batch mode) [feature]|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3182
+"77779481"|Add support for local folders|k-9|https://github.com/k9mail/k-9/issues/648
+"78003561"|Image view in fullscreen|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3192
+"78562390"|pixel line below and over emojis|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3203
+"79177030"|make group avatar target size 256px instead of 210px|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3230
+"79855891"|Adding Group Member with multiple phone numbers|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3245
+"84770449"|crash on tap group member from members view|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3329
+"84801686"|emoji keyboard and attachment paperclip still enabled after leaving group|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3334
+"85831105"|TextSecure incorrectly thinks recipient is registered|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3359
+"86794021"|Show indicator for accounts and folders with unseen messages|k-9|https://github.com/k9mail/k-9/issues/680
+"90606690"|Notifications are missing |Signal-Android|https://github.com/signalapp/Signal-Android/issues/3461
+"91019321"|bumping gradle build tools version broke all the tests|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3474
+"91019601"|Crash|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3475
+"93750159"|"""Raised Hand With Part Between Middle And Ring Fingers"" Emoji (A.K.A. ""Vulcan Salute"" Emoji) is missing from 2.22.0"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3557
+"94041493"|unnecessary resend button in MessageDetailsActivity|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3582
+"94136857"|Support flash in direct capture mode|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3590
+"94425218"|Please add option to change default theme color globally|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3613
+"9442765"|TextSecure on JellyBam v3.0.0 (Android 4.1.2 + Android 4.2.0) loops exchange message|Signal-Android|https://github.com/signalapp/Signal-Android/issues/108
+"94537386"|Conversation colors don't update while in keyboard|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3626
+"94983825"|Drafts of encrypted mails are saved in plaintext|k-9|https://github.com/k9mail/k-9/issues/711
+"95667347"|can't post to group chat|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3679
+"95804006"|Quick capture temporarily shows previous preview texture before re-initializing|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3699
+"95822534"|Camera out of focus|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3713
+"95827751"|Cannot add member to group mms|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3716
+"95918472"|"""Send TextSecure Message"" inside enter button too long (Google Keyboard)"|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3725
+"96248457"|keyboard type predictions not shown in landscape mode|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3737
+"96446363"|No keyboard in contact list|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3746
+"96772363"|Quick camera icon wrong dimensions in hdpi|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3769
+"96813247"|New permissions in TextSecure 2.32.2|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3771
+"97191035"|Custom poll frequency|k-9|https://github.com/k9mail/k-9/issues/722
+"97520266"|k9 crashes using wrong signs |k-9|https://github.com/k9mail/k-9/issues/724
+"97527299"|Stagefright Vulnerability: No way to disable auto-downloading of MMS|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3817
+"98627189"|k9 keeps sending failing messages|k-9|https://github.com/k9mail/k-9/issues/729
+"98994165"|My k9 does not verify Sign after download|k-9|https://github.com/k9mail/k-9/issues/732
+"99277247"|List of contacts incomplete for compose or group creation|Signal-Android|https://github.com/signalapp/Signal-Android/issues/3891
