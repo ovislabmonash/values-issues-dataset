@@ -1,4 +1,4 @@
-"id"|"value_name"
+id|value_name
 1|None
 2|Privacy
 3|Freedom
@@ -14,10 +14,9 @@
 15|Conformity
 16|Trust
 17|Dignity
-18|Secrecy
-19|Wealth
-20|Inclusiveness
-21|Reliability
-22|Compatibility
-23|Portability
-24|Energy Preservation
+18|Wealth
+19|Inclusiveness
+20|Reliability
+21|Compatibility
+22|Portability
+23|Energy Preservation
